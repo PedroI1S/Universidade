@@ -4,909 +4,351 @@ Repositorio com arquivos de programacao organizados por semestre.
 
 ## Resumo
 
-- Total de arquivos de programacao: 901
+- Total de arquivos de programacao: 343
 - Estrutura preservada por semestre/disciplina
 
 ## Descricao breve por arquivo
 
+- 1_Primeiro_Semestre/Programaçao/1°Avaliação/Pedro_Mariano_Questao1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/1°Avaliação/Pedro_Mariano_Questao2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/1°Avaliação/Pedro_Mariano_Questao3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1 - entrega/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1 - entrega/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1 - entrega/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1 - entrega/Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1/Ex8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1/Ex9.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex10.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex7.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex9.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1 - entrega/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1 - entrega/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1 - entrega/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex4.5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex7.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex9.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 2/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 2/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 2/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1 - para entrega/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1 - para entrega/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1 - para entrega/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex10.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex7.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex10.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex11.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex12.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex7.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex9.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 4/Ex.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 4/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 4/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Funcoes/Lista 1 - para entrega/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Funcoes/Lista 1 - para entrega/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Funcoes/Lista 1 - para entrega/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Matrizes/12.06_Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Matrizes/12.06_ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Matrizes/16.06_Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Matrizes/Matrizes.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Strings/Strings.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Strings/Strings2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Strings/Strings3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Vetores/Vetores.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
+- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Vetores/vetores.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Agebra linear/Matrizes 1.mlx: live script MATLAB com texto e execucao integrada.
+- 2_Segundo_Semestre/Agebra linear/Matrizes 2.mlx: live script MATLAB com texto e execucao integrada.
+- 2_Segundo_Semestre/Agebra linear/Matrizes 3.mlx: live script MATLAB com texto e execucao integrada.
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Aula 1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Aula_2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Aula_3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Ex notas.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Ponteiros e Structs/Ponteiros em structs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/2 - Alocacao dinamica/Ex 1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/2 - Alocacao dinamica/Ex para nota.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/2 - Alocacao dinamica/tempCodeRunnerFile.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/3 -TAD/Aula 1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/3 -TAD/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/3 -TAD/ExN.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/3 -TAD/Tad.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/4 - Listas estaticas/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/4 - Listas estaticas/list.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/4 - Listas estaticas/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/4 - Listas estaticas/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/4 - Listas estaticas/List.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Aula 1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Aula_3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Ex notas.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Ponteiros e Structs/Ponteiros em structs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/1 - Ponteiros e Structs/Aula_2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/4 - Listas estaticas/list.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/5 - Pilhas/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/5 - Pilhas/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/5 - Pilhas/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/5 - Pilhas/teste.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/5 - Pilhas/Ex_nota.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/2 - Alocacao dinamica/Ex para nota.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/2 - Alocacao dinamica/tempCodeRunnerFile.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/2 - Alocacao dinamica/Ex 1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/5 - Pilhas/teste.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/6 - Filas/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/6 - Filas/Fila.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/6 - Filas/Ex_nota.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/6 - Filas/Fila.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/6 - Filas/Fila.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
 - 2_Segundo_Semestre/Algoritimo e Estrutura de dados 1/6 - Filas/TAD.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 2_Segundo_Semestre/Agebra linear/Matrizes 1.mlx: live script MATLAB com texto e execucao integrada.
-- 2_Segundo_Semestre/Agebra linear/Matrizes 2.mlx: live script MATLAB com texto e execucao integrada.
-- 2_Segundo_Semestre/Agebra linear/Matrizes 3.mlx: live script MATLAB com texto e execucao integrada.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/UsaCarro.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/Pessoa.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/UsaPessoa.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/CarroIdeal.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/CarroNaoIdeal.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Segundo.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_1.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_6.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_4.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_5.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_2.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_3.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/OlaMundo.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Terceiro.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_3/IntegerSet.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_3/IntegerSetDemo.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_4/teste.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_4/RationalDemo.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_4/Rational.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_5/Fatura.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_5/AplicativoFatura.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_2/NumeroComplexo.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_2/NumeroComplexoDemo.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_2/texte.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_9/email.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_9/usaEmail.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_9/EmailAPIPanel.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_7/TesteDate.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_7/Date.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_1/Die.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_1/DieDemo.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_6/Empregado.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_6/TesteEmpregado.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_8/AplicacaoFrequenciaCardiaca.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_8/FrequenciaCardiaca.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_6/Pessoa.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_6/DemoPessoaLer.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_6/DemoPessoaGravar.java: codigo fonte Java para classes, metodos e exercicios.
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Rubro_Negra/QuantidadeV.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Rubro_Negra/QuantidadePI.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Rubro_Negra/TAD_RNtree.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Rubro_Negra/Remocao.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_B/Altuara.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_B/TAD_ArvoreB.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_B/ContarPaginasCheias.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_B/ContarPag.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Binaria/TAD_ABB.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Binaria/ImprimirFolhas.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_B/ContarPaginasCheias.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_B/TAD_ArvoreB.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Binaria/EspelharABB.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Binaria/ImprimirFolhas.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Binaria/Inserir_void.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Binaria/Somatorio_nos.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Binaria/TAD_ABB.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Rubro_Negra/QuantidadePI.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Rubro_Negra/QuantidadeV.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Rubro_Negra/Remocao.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Arvore_Rubro_Negra/TAD_RNtree.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Fila_Encadeada/Concatenacao.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Fila_Encadeada/fila.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Fila_Encadeada/fila.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_DEncadeada/ListaDE.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_DEncadeada/ListaDE.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_DEncadeada/ListaDE_RemocaoRepeticao.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_Encadeada/OrdenacaoDeString.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_Encadeada/ProcurarSublista.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_Encadeada/TAD.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Pilha_Encadeada/pilha.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Pilha_Encadeada/Balanco_parentese.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Pilha_Encadeada/pilha.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Pilha_Encadeada/pilha.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_DEncadeada/ListaDE.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_DEncadeada/ListaDE_RemocaoRepeticao.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Lista_DEncadeada/ListaDE.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Fila_Encadeada/fila.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Fila_Encadeada/fila.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Estruturas_de_dado/Fila_Encadeada/Concatenacao.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Hashing/Tebela_RBtree.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Paradigmas/Brute_Force/Soma_Sub_Maxima.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Paradigmas/Prog_dinamica/Sub_max.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Paradigmas/Alg_Guloso/Fracao_egipcia.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Paradigmas/Alg_Guloso/Sequenciamento_Tarefas_Maquina.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Paradigmas/Brute_Force/Soma_Sub_Maxima.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Paradigmas/Prog_dinamica/Sub_max.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Trabalho_Final/Contador_palindromo_2_file.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Trabalho_Final/teste.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Trabalho_Final/Repositorio_Trabalho_Final/Contador_palindromos_1.3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Trabalho_Final/Repositorio_Trabalho_Final/Contador_palindromos_1.8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/prototipo/Site.html: pagina HTML com estrutura de interface.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Genero.java: codigo fonte Java para classes, metodos e exercicios.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/BibliotecaDeJogos.java: codigo fonte Java para classes, metodos e exercicios.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Avaliacao.java: codigo fonte Java para classes, metodos e exercicios.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Pedido.java: codigo fonte Java para classes, metodos e exercicios.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Carrinho.java: codigo fonte Java para classes, metodos e exercicios.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Usuario.java: codigo fonte Java para classes, metodos e exercicios.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Cliente.java: codigo fonte Java para classes, metodos e exercicios.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Jogo.java: codigo fonte Java para classes, metodos e exercicios.
-- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Catalogo.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Agoritimos_e_Estrutura_de_Dados_2/Trabalho_Final/teste.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_1/Ex_5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_1.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_2.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_3.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_4.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_5.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Exs/Ex_6.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/OlaMundo.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Segundo.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_2/Terceiro.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/CarroIdeal.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/CarroNaoIdeal.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/Pessoa.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/UsaCarro.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_4/UsaPessoa.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_6/DemoPessoaGravar.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_6/DemoPessoaLer.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Aula_6/Pessoa.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_1/Die.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_1/DieDemo.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_2/NumeroComplexo.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_2/NumeroComplexoDemo.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_2/texte.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_3/IntegerSet.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_3/IntegerSetDemo.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_4/Rational.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_4/RationalDemo.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_4/teste.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_5/AplicativoFatura.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_5/Fatura.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_6/Empregado.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_6/TesteEmpregado.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_7/Date.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_7/TesteDate.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_8/AplicacaoFrequenciaCardiaca.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_8/FrequenciaCardiaca.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_9/EmailAPIPanel.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_9/email.java: codigo fonte Java para classes, metodos e exercicios.
+- 3_Terceiro_Semestre/Tecnicas_de_programaco/Exercicios/Ex_9/usaEmail.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/T1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/T2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/T3_T4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/Teste.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/grafo.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
+- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/matriz_esp.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
+- 4_Quarto_Semestre/Algoritmos_Em_Grafos/teste.py: script Python para automacao, analise ou exercicios.
+- 4_Quarto_Semestre/Eletronica_Digital/Lab1/Lab1_DE10_Lite/db/Lab1.lpc.html: pagina HTML com estrutura de interface.
+- 4_Quarto_Semestre/Eletronica_Digital/Lab3/Ex_5_DE10_Lite/db/Ex_5.lpc.html: pagina HTML com estrutura de interface.
+- 4_Quarto_Semestre/Eletronica_Digital/Lab4/Ex_1_FF_D_DE10_Lite/db/Ex_1_FF_D.lpc.html: pagina HTML com estrutura de interface.
+- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_1/Conjuntos.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
+- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_1/ati.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_2/menu.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_3/pedro_mariano.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_4/pedro_mariano.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_5/Pedro_Mariano.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_1.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_2.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_3.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_4.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_5.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_6.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/OlaMundo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Segundo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Terceiro.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/CarroIdeal.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/CarroNaoIdeal.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/Pessoa.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/UsaCarro.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/UsaPessoa.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_6/DemoPessoaGravar.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_6/DemoPessoaLer.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_6/Pessoa.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_1/Die.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_1/DieDemo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/Anexo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/CaixaEmail.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/Data.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/Email.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/SistemaEmail.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_2/NumeroComplexo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_2/NumeroComplexoDemo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_2/texte.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_3/IntegerSet.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_3/IntegerSetDemo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_4/Rational.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_4/RationalDemo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_4/teste.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_5/AplicativoFatura.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_5/Fatura.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_6/Empregado.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_6/TesteEmpregado.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_7/Date.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_7/TesteDate.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_8/AplicacaoFrequenciaCardiaca.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_8/FrequenciaCardiaca.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_9/Email.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_9/usaEmail.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Bicicleta.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Calibravel.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/CarroEsportivo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/CarroPasseio.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Desenhavel.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Motocicleta.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Motor.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Reabastecivel.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Recarregavel.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Roda.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Simulador.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Veiculo.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/VeiculoHibrido.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/VeiculoSemMotor.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/usaSimulador.java: codigo fonte Java para classes, metodos e exercicios.
+- 4_Quarto_Semestre/Tecnicas_De_Programacao/OlaMundoThread.java: codigo fonte Java para classes, metodos e exercicios.
 - 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Administrador.java: codigo fonte Java para classes, metodos e exercicios.
-- 1_Primeiro_Semestre/Programaçao/1°Avaliação/Pedro_Mariano_Questao3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/1°Avaliação/Pedro_Mariano_Questao2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/1°Avaliação/Pedro_Mariano_Questao1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Matrizes/12.06_Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Matrizes/Matrizes.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Matrizes/16.06_Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Matrizes/12.06_ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1/Ex8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1/Ex9.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1 - entrega/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1 - entrega/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1 - entrega/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 1 - entrega/Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex9.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex7.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex10.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura Sequencial/Lista 2/Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Strings/Strings.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Strings/Strings2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Strings/Strings3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex4.5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex9.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1/Ex7.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1 - entrega/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1 - entrega/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 1 - entrega/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 2/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 2/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Decisão/Lista 2/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex7.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex10.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1/Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1 - para entrega/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1 - para entrega/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 1 - para entrega/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex12.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex8.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex11.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex9.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex7.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 3/Ex10.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 4/Ex.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 4/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 4/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex6.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Estrutura de Repetição/Lista 2/Ex4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Funcoes/Lista 1 - para entrega/Ex1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Funcoes/Lista 1 - para entrega/Ex2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Funcoes/Lista 1 - para entrega/Ex3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Vetores/vetores.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 1_Primeiro_Semestre/Programaçao/Trabalhos 1° Semestre/Vetores/Vetores.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 6_Sexto_Semestre/Calculo_Numerico/aprox_quadrados_minimos.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Calculo_Numerico/Newton.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Calculo_Numerico/MatrizTriangular.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Calculo_Numerico/FaatoracaoLU.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Calculo_Numerico/Bisseccao.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Calculo_Numerico/Avaliacao/ZerosDeFuncao.m: script MATLAB/Octave para calculo numerico e analise.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Avaliacao.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/BibliotecaDeJogos.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Carrinho.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Catalogo.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Cliente.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Genero.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Jogo.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Pedido.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/TrabalhoFinal/gamehub/src/Usuario.java: codigo fonte Java para classes, metodos e exercicios.
+- 5_Quinto_Semestre/Analise_e_projeto_de_sistemas/prototipo/Site.html: pagina HTML com estrutura de interface.
+- 6_Sexto_Semestre/Banco_de_Dados/Codigos/Cadastro_exemplo.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Banco_de_Dados/Codigos/teste.sql: script SQL com consultas, criacao ou manipulacao de dados.
+- 6_Sexto_Semestre/Banco_de_Dados/Postgrees/-- a).sql: script SQL com consultas, criacao ou manipulacao de dados.
+- 6_Sexto_Semestre/Banco_de_Dados/Trabalho _2/Trabalho2_Rodrigo_PedroMariano.sql: script SQL com consultas, criacao ou manipulacao de dados.
+- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/0a.sql: script SQL com consultas, criacao ou manipulacao de dados.
+- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/0b.sql: script SQL com consultas, criacao ou manipulacao de dados.
+- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/0c.sql: script SQL com consultas, criacao ou manipulacao de dados.
+- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/projeto_script_pdf/trabalho1_solucao.sql: script SQL com consultas, criacao ou manipulacao de dados.
+- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/sala/Ex2.sql: script SQL com consultas, criacao ou manipulacao de dados.
 - 6_Sexto_Semestre/Calculo_Numerico/Avaliacao/MetodosDiretosEqLineares.m: script MATLAB/Octave para calculo numerico e analise.
 - 6_Sexto_Semestre/Calculo_Numerico/Avaliacao/MetodosIterativosEqLineares.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Calculo_Numerico/Avaliacao/ZerosDeFuncao.m: script MATLAB/Octave para calculo numerico e analise.
 - 6_Sexto_Semestre/Calculo_Numerico/Avaliacao2/PedroMariano.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Calculo_Numerico/Bisseccao.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Calculo_Numerico/FaatoracaoLU.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Calculo_Numerico/MatrizTriangular.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Calculo_Numerico/Newton.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Calculo_Numerico/aprox_quadrados_minimos.m: script MATLAB/Octave para calculo numerico e analise.
 - 6_Sexto_Semestre/Instrumentacao_Processos/BoostConverter/Instrumentacao.mlx: live script MATLAB com texto e execucao integrada.
 - 6_Sexto_Semestre/Instrumentacao_Processos/BoostConverter/InstrumentacaoConversorBoost.mlx: live script MATLAB com texto e execucao integrada.
 - 6_Sexto_Semestre/Instrumentacao_Processos/bode.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Banco_de_Dados/Trabalho _2/Trabalho2_Rodrigo_PedroMariano.sql: script SQL com consultas, criacao ou manipulacao de dados.
-- 6_Sexto_Semestre/Banco_de_Dados/Postgrees/-- a).sql: script SQL com consultas, criacao ou manipulacao de dados.
-- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/sala/Ex2.sql: script SQL com consultas, criacao ou manipulacao de dados.
-- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/projeto_script_pdf/trabalho1_solucao.sql: script SQL com consultas, criacao ou manipulacao de dados.
-- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/0a.sql: script SQL com consultas, criacao ou manipulacao de dados.
-- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/0c.sql: script SQL com consultas, criacao ou manipulacao de dados.
-- 6_Sexto_Semestre/Banco_de_Dados/projetos_sql/0b.sql: script SQL com consultas, criacao ou manipulacao de dados.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_merger.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_protocols.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_encryption.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_writer.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/pagerange.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/constants.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_security.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_reader.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/types.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/xmp.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_page.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/generic/_base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/generic/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/generic/_outline.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/generic/_data_structures.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/generic/_annotations.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/generic/_rectangle.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/generic/_fit.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/generic/_utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_cmap.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/errors.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_codecs/adobe_glyphs.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_codecs/std.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_codecs/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_codecs/symbol.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_codecs/pdfdoc.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_codecs/zapfding.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/filters.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/_utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/PyPDF2/papersizes.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/configuration.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/pyproject.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/network/auth.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/network/xmlrpc.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/network/download.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/network/session.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/network/cache.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/network/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/network/utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/network/lazy_wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cache.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/logging.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/misc.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/encoding.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/models.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/deprecation.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/subprocess.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/filesystem.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/direct_url_helpers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/temp_dir.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/appdirs.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/inject_securetransport.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/setuptools_build.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/packaging.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/distutils_args.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/entrypoints.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/filetypes.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/pkg_resources.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/parallel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/compatibility_tags.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/datetime.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/urls.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/hashes.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/virtualenv.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/_log.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/glibc.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/utils/unpacking.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/link.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/selection_prefs.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/direct_url.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/index.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/target_python.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/search_scope.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/candidate.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/format_control.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/scheme.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/models/wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/cmdoptions.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/status_codes.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/parser.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/command_context.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/spinners.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/autocompletion.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/base_command.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/main_parser.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/progress_bars.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/main.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/cli/req_command.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/install/legacy.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/install/editable_legacy.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/install/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/install/wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/check.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/freeze.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/build/wheel_legacy.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/build/metadata.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/build/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/build/metadata_legacy.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/build/wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/operations/prepare.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/req/req_install.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/req/req_tracker.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/req/req_set.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/req/req_uninstall.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/req/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/req/req_file.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/req/constructors.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/legacy/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/legacy/resolver.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/provider.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/reporter.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/factory.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/requirements.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/resolver.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/candidates.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/vcs/git.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/vcs/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/vcs/mercurial.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/vcs/bazaar.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/vcs/versioncontrol.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/vcs/subversion.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/locations/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/locations/_sysconfig.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/locations/_distutils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/locations/base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/index/collector.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/index/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/index/sources.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/index/package_finder.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/exceptions.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/configuration.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/show.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/list.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/check.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/index.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/completion.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/download.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/cache.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/hash.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/debug.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/uninstall.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/freeze.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/search.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/install.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/help.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/commands/wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/main.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/wheel_builder.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/metadata/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/metadata/pkg_resources.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/metadata/base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/distributions/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/distributions/sdist.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/distributions/installed.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/distributions/base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/distributions/wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/self_outdated_check.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_internal/build_env.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/tags.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/_musllinux.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/requirements.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/_structures.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/markers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/__about__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/_manylinux.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/packaging/specifiers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/msgpack/_version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/msgpack/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/msgpack/exceptions.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/msgpack/fallback.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/msgpack/ext.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/enums.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/langhungarianmodel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/mbcssm.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/langthaimodel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/langbulgarianmodel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/euckrprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/sjisprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/cp949prober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/euctwfreq.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/langhebrewmodel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/cli/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/cli/chardetect.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/chardistribution.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/latin1prober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/charsetprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/gb2312prober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/mbcharsetprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/euctwprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/langrussianmodel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/codingstatemachine.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/escprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/universaldetector.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/utf8prober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/gb2312freq.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/mbcsgroupprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/langgreekmodel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/eucjpprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/jisfreq.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/escsm.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/langturkishmodel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/sbcharsetprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/big5freq.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/euckrfreq.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/big5prober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/hebrewprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/metadata/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/metadata/languages.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/charsetgroupprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/sbcsgroupprober.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/chardet/jpcntx.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/webencodings/labels.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/webencodings/mklabels.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/webencodings/x_user_defined.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/webencodings/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/webencodings/tests.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/progress/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/progress/bar.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/progress/spinner.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/progress/counter.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/build.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/dirtools.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/check.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/in_process/_in_process.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/in_process/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/envbuild.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/wrappers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/colorlog.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pep517/meta.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/_backport/shutil.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/_backport/misc.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/_backport/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/_backport/tarfile.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/_backport/sysconfig.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/locators.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/metadata.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/index.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/manifest.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/util.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/database.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/markers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/resources.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/scripts.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distlib/wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/colorama/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/colorama/win32.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/colorama/ansitowin32.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/colorama/ansi.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/colorama/winterm.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/colorama/initialise.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/serialize.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/wrapper.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/controller.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/filewrapper.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/heuristics.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/adapter.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/cache.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/_cmd.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/caches/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/idna/intranges.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/idna/package_data.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/idna/compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/idna/idnadata.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/idna/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/idna/core.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/idna/codec.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/idna/uts46data.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/before.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/before_sleep.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/_asyncio.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/stop.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/wait.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/nap.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/after.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/retry.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/tornadoweb.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tenacity/_utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/cookies.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/auth.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/sessions.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/hooks.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/models.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/certs.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/status_codes.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/packages.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/__version__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/api.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/_internal_utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/exceptions.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/structures.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/help.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/requests/adapters.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/appdirs.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/filters/sanitizer.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/filters/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/filters/base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/filters/optionaltags.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/filters/lint.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/filters/whitespace.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treewalkers/etree.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treewalkers/base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treewalkers/dom.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treebuilders/etree.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treebuilders/base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treebuilders/dom.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/_inputstream.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/_ihatexml.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/constants.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/html5parser.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/_trie/_base.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/_trie/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/_trie/py.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treeadapters/sax.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/serializer.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/_tokenizer.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/html5lib/_utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tomli/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tomli/_parser.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/tomli/_re.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/certifi/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/certifi/core.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/certifi/__main__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/six.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/filepost.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/fields.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/queue.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/ssltransport.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/proxy.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/wait.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/request.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/timeout.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/response.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/ssl_.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/retry.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/url.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/util/connection.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/_version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/request.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/poolmanager.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/response.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/securetransport.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/socks.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/appengine.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/connection.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/_collections.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/six.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/exceptions.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/urllib3/connectionpool.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/distro.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pkg_resources/py31compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pkg_resources/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/pyparsing.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/resolvelib/compat/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/resolvelib/compat/collections_abc.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/resolvelib/resolvers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/resolvelib/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/resolvelib/providers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/resolvelib/structs.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/_vendor/resolvelib/reporters.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pip/__main__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/windows_support.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_deprecation_warning.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/package_index.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/archive_util.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_imp.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/config.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/tags.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/_typing.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/requirements.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/_structures.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/markers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/__about__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/_compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/specifiers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/more_itertools/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/more_itertools/more.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/more_itertools/recipes.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/ordered_set.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_vendor/pyparsing.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/depends.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/installer.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/glob.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/sandbox.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/py34compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/launch.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/extension.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/unicode_utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/monkey.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/build_meta.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/errors.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/dep_util.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/bdist_egg.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/alias.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/py36compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/build_ext.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/easy_install.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/install_scripts.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/upload.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/register.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/dist_info.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/install_lib.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/upload_docs.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/build_py.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/sdist.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/test.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/saveopts.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/bdist_rpm.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/build_clib.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/egg_info.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/install.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/develop.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/rotate.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/install_egg_info.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/command/setopt.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/msvc.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/extern/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/dist.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/_msvccompiler.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/unixccompiler.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/filelist.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/ccompiler.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/msvc9compiler.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/archive_util.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/cmd.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/config.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/log.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/util.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/fancy_getopt.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/versionpredicate.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/file_util.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/core.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/py35compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/cygwinccompiler.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/extension.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/debug.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/spawn.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/text_file.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/msvccompiler.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/errors.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/dep_util.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/build.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/py37compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/build_ext.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/config.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/clean.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/check.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/install_scripts.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/upload.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/register.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/bdist_wininst.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/install_headers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/install_lib.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/build_py.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/bdist_dumb.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/sdist.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/bdist.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/build_scripts.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/bdist_rpm.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/build_clib.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/install.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/bdist_msi.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/install_egg_info.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/command/install_data.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/dir_util.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/sysconfig.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/py38compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/dist.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/_distutils/bcppcompiler.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/wheel.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/setuptools/namespaces.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/tags.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/version.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/_typing.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/utils.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/requirements.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/_structures.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/markers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/__about__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/_compat.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/specifiers.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/appdirs.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/_vendor/pyparsing.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/tests/data/my-test-package-source/setup.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/pkg_resources/extern/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/_distutils_hack/__init__.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/_distutils_hack/override.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/.venv/lib/python3.9/site-packages/typing_extensions.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Banco_de_Dados/Codigos/Cadastro_exemplo.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Banco_de_Dados/Codigos/teste.sql: script SQL com consultas, criacao ou manipulacao de dados.
+- 6_Sexto_Semestre/Modelagem/Exercicios/Lista4/Parte2Lista4.mlx: live script MATLAB com texto e execucao integrada.
+- 6_Sexto_Semestre/Modelagem/Exercicios/Lista5/Lista5.mlx: live script MATLAB com texto e execucao integrada.
+- 6_Sexto_Semestre/Modelagem/MatLab/SimulacaoNumericaDeSistemasDinamicos.mlx: live script MATLAB com texto e execucao integrada.
+- 6_Sexto_Semestre/Modelagem/MatLab/SistemasDinamicos.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Modelagem/MatLab/nyqst.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Modelagem/P1/Q3_comb_drive.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Modelagem/P1/Script_P1.mlx: live script MATLAB com texto e execucao integrada.
+- 6_Sexto_Semestre/Modelagem/P1/comb_drive_equilibrium.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Modelagem/P1/comb_drive_ode.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Modelagem/P1/maldade.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Modelagem/P2/solucao_lista_controle.m: script MATLAB/Octave para calculo numerico e analise.
+- 6_Sexto_Semestre/Modelagem/Pedro_Lab1/Lab1.mlx: live script MATLAB com texto e execucao integrada.
+- 6_Sexto_Semestre/Modelagem/Pedro_Lab2/Lab2.mlx: live script MATLAB com texto e execucao integrada.
+- 6_Sexto_Semestre/Modelagem/Pedro_Lab3/LaboratorioRespostaFreq.mlx: live script MATLAB com texto e execucao integrada.
 - 6_Sexto_Semestre/Sistemas_Inteligentes/IA/1 - Exploração dos dados.ipynb: notebook com codigo executavel e anotacoes de estudo.
 - 6_Sexto_Semestre/Sistemas_Inteligentes/IA/2 - Pré-processamento.ipynb: notebook com codigo executavel e anotacoes de estudo.
 - 6_Sexto_Semestre/Sistemas_Inteligentes/Sistemas int/JogoDaVelha/JogoDaVelha_minmax.py: script Python para automacao, analise ou exercicios.
 - 6_Sexto_Semestre/Sistemas_Inteligentes/Sistemas int/JogoDaVelha/tictactoe_astar.py: script Python para automacao, analise ou exercicios.
-- 6_Sexto_Semestre/Sistemas_Operacionais/ProgramacaoParalela/soma_de_array.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Operacionais/ProgramacaoParalela/omp.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Operacionais/ProgramacaoParalela/SomarValVetor.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Operacionais/ProgramacaoParalela/lock.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Operacionais/Trabalho4/Trabalho4.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Operacionais/Trabalho3/FatorialLock.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Operacionais/Trabalho3/FatorialCritical.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46CP_Portas_ES_Ex_1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46EL_Portas_ES_Ex_03.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46EL_Portas_ES_Ex_02.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46EL_Portas_ES_Ex_01.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46CP_Aula_01_Ex_Pisca_LED__main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Encode_Rotativo/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Encode_Rotativo/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Encode_Rotativo/Encode/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Servo_Motor/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Servo_Motor/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Servo_Motor/sercvo/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/2_PWM/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/2_PWM/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/2_PWM/enseai/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Encode_Rotativo/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Encode_Rotativo/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Encode_Rotativo/Encode/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Iluminacao_Publica/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Iluminacao_Publica/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Iluminacao_Publica/ja/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Luz_Publica/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Luz_Publica/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Luz_Publica/luz/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Motor_passos/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Motor_passos/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Motor_passos/passos/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Iluminacao_Publica/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Iluminacao_Publica/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
-- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Iluminacao_Publica/ja/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Servo_Motor/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Servo_Motor/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/Micro erick/Servo_Motor/sercvo/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46CP_Aula_01_Ex_Pisca_LED__main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46CP_Portas_ES_Ex_1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46EL_Portas_ES_Ex_01.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46EL_Portas_ES_Ex_02.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
+- 6_Sexto_Semestre/Sistemas_Microcontrolados/SM46ELCP_Portas_ES_Ex_01_a_03/SM46EL_Portas_ES_Ex_03.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Trabalho_Final/Trabalho_comentado.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
 - 6_Sexto_Semestre/Sistemas_Microcontrolados/Trabalho_Final/main.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 6_Sexto_Semestre/Modelagem/P2/solucao_lista_controle.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Modelagem/Pedro_Lab1/Lab1.mlx: live script MATLAB com texto e execucao integrada.
-- 6_Sexto_Semestre/Modelagem/Exercicios/Lista5/Lista5.mlx: live script MATLAB com texto e execucao integrada.
-- 6_Sexto_Semestre/Modelagem/Exercicios/Lista4/Parte2Lista4.mlx: live script MATLAB com texto e execucao integrada.
-- 6_Sexto_Semestre/Modelagem/P1/maldade.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Modelagem/P1/Script_P1.mlx: live script MATLAB com texto e execucao integrada.
-- 6_Sexto_Semestre/Modelagem/P1/comb_drive_equilibrium.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Modelagem/P1/comb_drive_ode.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Modelagem/P1/Q3_comb_drive.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Modelagem/MatLab/SistemasDinamicos.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Modelagem/MatLab/SimulacaoNumericaDeSistemasDinamicos.mlx: live script MATLAB com texto e execucao integrada.
-- 6_Sexto_Semestre/Modelagem/MatLab/nyqst.m: script MATLAB/Octave para calculo numerico e analise.
-- 6_Sexto_Semestre/Modelagem/Pedro_Lab2/Lab2.mlx: live script MATLAB com texto e execucao integrada.
-- 6_Sexto_Semestre/Modelagem/Pedro_Lab3/LaboratorioRespostaFreq.mlx: live script MATLAB com texto e execucao integrada.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/UsaCarro.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/Pessoa.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/UsaPessoa.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/CarroIdeal.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_4/CarroNaoIdeal.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Segundo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_1.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_6.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_4.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_5.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_2.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Exs/Ex_3.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/OlaMundo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_2/Terceiro.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/Email.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/SistemaEmail.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/CaixaEmail.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/Data.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_10/Anexo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Desenhavel.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Motocicleta.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Motor.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Recarregavel.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/VeiculoSemMotor.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/usaSimulador.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/CarroPasseio.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Roda.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/VeiculoHibrido.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Simulador.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/CarroEsportivo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Veiculo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Calibravel.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Reabastecivel.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/LA_2/src/Bicicleta.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_3/IntegerSet.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_3/IntegerSetDemo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_4/teste.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_4/RationalDemo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_4/Rational.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_5/Fatura.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_5/AplicativoFatura.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_2/NumeroComplexo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_2/NumeroComplexoDemo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_2/texte.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_9/Email.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_9/usaEmail.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_7/TesteDate.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_7/Date.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_1/Die.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_1/DieDemo.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_6/Empregado.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_6/TesteEmpregado.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_8/AplicacaoFrequenciaCardiaca.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Exercicios/Ex_8/FrequenciaCardiaca.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/OlaMundoThread.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_5.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_1/Ex_3.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_6/Pessoa.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_6/DemoPessoaLer.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Tecnicas_De_Programacao/Aula_6/DemoPessoaGravar.java: codigo fonte Java para classes, metodos e exercicios.
-- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_1/ati.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_1/Conjuntos.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_5/Pedro_Mariano.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_2/menu.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_3/pedro_mariano.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Matematica_Discreta_Para_Computacao/Atividade_pratica_4/pedro_mariano.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Algoritmos_Em_Grafos/teste.py: script Python para automacao, analise ou exercicios.
-- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/matriz_esp.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/T1.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/grafo.h: arquivo de cabecalho C com definicoes, prototipos e tipos.
-- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/T2.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/Teste.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Algoritmos_Em_Grafos/Trabalhos/T3_T4.c: codigo fonte em C (exercicios, algoritmos ou estruturas de dados).
-- 4_Quarto_Semestre/Eletronica_Digital/Lab1/Lab1_DE10_Lite/db/Lab1.lpc.html: pagina HTML com estrutura de interface.
-- 4_Quarto_Semestre/Eletronica_Digital/Lab3/Ex_5_DE10_Lite/db/Ex_5.lpc.html: pagina HTML com estrutura de interface.
-- 4_Quarto_Semestre/Eletronica_Digital/Lab4/Ex_1_FF_D_DE10_Lite/db/Ex_1_FF_D.lpc.html: pagina HTML com estrutura de interface.
+- 6_Sexto_Semestre/Sistemas_Operacionais/ProgramacaoParalela/SomarValVetor.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Operacionais/ProgramacaoParalela/lock.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Operacionais/ProgramacaoParalela/omp.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Operacionais/ProgramacaoParalela/soma_de_array.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Operacionais/Trabalho3/FatorialCritical.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Operacionais/Trabalho3/FatorialLock.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- 6_Sexto_Semestre/Sistemas_Operacionais/Trabalho4/Trabalho4.cpp: codigo fonte em C++ (implementacoes e exercicios).
+- _refresh_metadata.py: script Python para automacao, analise ou exercicios.
+- refresh_metadata_clean.py: script Python para automacao, analise ou exercicios.
