@@ -2,13 +2,13 @@
 
 Total de arquivos de programacao neste ramo: 8
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Ex1.c: codigo fonte em C
-- Ex10.c: codigo fonte em C
-- Ex2.c: codigo fonte em C
-- Ex3.c: codigo fonte em C
-- Ex4.c: codigo fonte em C
-- Ex5.c: codigo fonte em C
-- Ex6.c: codigo fonte em C
-- Ex7.c: codigo fonte em C
+- Ex1.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Ex10.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Ex2.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Ex3.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Ex4.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Ex5.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Ex6.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Ex7.c: Codigo em C/C++ que possui ponto de entrada principal.

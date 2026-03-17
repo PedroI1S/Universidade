@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- main.c: codigo fonte em C
-- Trabalho_comentado.c: codigo fonte em C
+- main.c: Codigo em C/C++ com implementacao de exercicio/pratica da disciplina.
+- Trabalho_comentado.c: Codigo em C/C++ com implementacao de exercicio/pratica da disciplina.

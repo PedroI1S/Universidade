@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Cadastro_exemplo.c: codigo fonte em C
-- teste.sql: script SQL
+- Cadastro_exemplo.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct.
+- teste.sql: Script SQL que cria estruturas de tabelas, insere dados, consulta dados.

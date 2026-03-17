@@ -6,6 +6,6 @@ Total de arquivos de programacao neste ramo: 3
 
 - BoostConverter: 2 arquivo(s) de programacao
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- bode.m: script MATLAB/Octave
+- bode.m: Script MATLAB/Octave com calculo e geracao de graficos.

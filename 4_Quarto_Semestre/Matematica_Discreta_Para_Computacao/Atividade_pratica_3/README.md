@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- pedro_mariano.c: codigo fonte em C
+- pedro_mariano.c: Codigo em C/C++ que possui ponto de entrada principal.

@@ -2,9 +2,9 @@
 
 Total de arquivos de programacao neste ramo: 4
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- QuantidadePI.c: codigo fonte em C
-- QuantidadeV.c: codigo fonte em C
-- Remocao.c: codigo fonte em C
-- TAD_RNtree.c: codigo fonte em C
+- QuantidadePI.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- QuantidadeV.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- Remocao.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- TAD_RNtree.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.

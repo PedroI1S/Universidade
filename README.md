@@ -1,6 +1,6 @@
 # Programacao Universidade
 
-Total de arquivos de programacao neste ramo: 343
+Total de arquivos de programacao neste ramo: 341
 
 ## Subpastas
 
@@ -11,7 +11,6 @@ Total de arquivos de programacao neste ramo: 343
 - 5_Quinto_Semestre: 11 arquivo(s) de programacao
 - 6_Sexto_Semestre: 71 arquivo(s) de programacao
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- _refresh_metadata.py: script Python
-- refresh_metadata_clean.py: script Python
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

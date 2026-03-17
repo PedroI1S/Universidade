@@ -7,8 +7,8 @@ Total de arquivos de programacao neste ramo: 5
 - projeto_script_pdf: 1 arquivo(s) de programacao
 - sala: 1 arquivo(s) de programacao
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- 0a.sql: script SQL
-- 0b.sql: script SQL
-- 0c.sql: script SQL
+- 0a.sql: Script SQL que cria estruturas de tabelas.
+- 0b.sql: Script SQL que cria estruturas de tabelas.
+- 0c.sql: Script SQL que cria estruturas de tabelas, insere dados, consulta dados, modifica dados.

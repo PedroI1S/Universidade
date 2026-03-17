@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Fracao_egipcia.c: codigo fonte em C
-- Sequenciamento_Tarefas_Maquina.c: codigo fonte em C
+- Fracao_egipcia.c: Codigo em C/C++ que possui ponto de entrada principal, usa alocacao dinamica de memoria.
+- Sequenciamento_Tarefas_Maquina.c: Codigo em C/C++ que possui ponto de entrada principal, trabalha com processos do sistema operacional, define estruturas de dados com struct, usa alocacao dinamica de memoria.

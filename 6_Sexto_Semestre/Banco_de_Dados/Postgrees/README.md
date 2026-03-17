@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- -- a).sql: script SQL
+- -- a).sql: Script SQL que consulta dados, modifica dados, relaciona tabelas com JOIN.

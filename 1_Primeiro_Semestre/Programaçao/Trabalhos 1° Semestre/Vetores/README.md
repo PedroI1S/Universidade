@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- vetores.c: codigo fonte em C
-- Vetores.h: cabecalho C
+- vetores.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Vetores.h: Codigo em C/C++ com implementacao de exercicio/pratica da disciplina.

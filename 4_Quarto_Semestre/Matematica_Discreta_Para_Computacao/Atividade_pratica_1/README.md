@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- ati.c: codigo fonte em C
-- Conjuntos.h: cabecalho C
+- ati.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Conjuntos.h: Codigo em C/C++ que define estruturas de dados com struct, usa alocacao dinamica de memoria.

@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Empregado.java: codigo fonte Java
-- TesteEmpregado.java: codigo fonte Java
+- Empregado.java: Codigo Java que define classe(s) Empregado, implementa metodo(s) como getPrimeiroNome, setPrimeiroNome, getSobrenome.
+- TesteEmpregado.java: Codigo Java que define classe(s) TesteEmpregado, possui metodo main para execucao, implementa metodo(s) como main.

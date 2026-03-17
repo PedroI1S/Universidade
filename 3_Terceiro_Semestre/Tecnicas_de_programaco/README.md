@@ -9,3 +9,7 @@ Total de arquivos de programacao neste ramo: 43
 - Aula_4: 5 arquivo(s) de programacao
 - Aula_6: 3 arquivo(s) de programacao
 - Exercicios: 21 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

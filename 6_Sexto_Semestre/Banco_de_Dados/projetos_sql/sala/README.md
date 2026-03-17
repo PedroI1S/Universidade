@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Ex2.sql: script SQL
+- Ex2.sql: Script SQL que cria estruturas de tabelas.

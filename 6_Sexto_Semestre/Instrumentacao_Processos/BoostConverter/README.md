@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Instrumentacao.mlx: live script MATLAB
-- InstrumentacaoConversorBoost.mlx: live script MATLAB
+- Instrumentacao.mlx: Script MATLAB/Octave para exercicio de modelagem/calculo numerico.
+- InstrumentacaoConversorBoost.mlx: Script MATLAB/Octave para exercicio de modelagem/calculo numerico.

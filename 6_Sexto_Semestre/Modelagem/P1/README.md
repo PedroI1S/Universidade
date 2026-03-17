@@ -2,10 +2,10 @@
 
 Total de arquivos de programacao neste ramo: 5
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- comb_drive_equilibrium.m: script MATLAB/Octave
-- comb_drive_ode.m: script MATLAB/Octave
-- maldade.m: script MATLAB/Octave
-- Q3_comb_drive.m: script MATLAB/Octave
-- Script_P1.mlx: live script MATLAB
+- comb_drive_equilibrium.m: Script MATLAB/Octave com funcao(oes) como comb_drive_equilibrium.
+- comb_drive_ode.m: Script MATLAB/Octave com funcao(oes) como comb_drive_ode.
+- maldade.m: Script MATLAB/Octave para exercicio de modelagem/calculo numerico.
+- Q3_comb_drive.m: Script MATLAB/Octave com calculo e geracao de graficos.
+- Script_P1.mlx: Script MATLAB/Octave para exercicio de modelagem/calculo numerico.

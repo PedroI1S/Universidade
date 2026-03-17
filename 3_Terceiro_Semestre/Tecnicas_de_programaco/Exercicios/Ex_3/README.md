@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- IntegerSet.java: codigo fonte Java
-- IntegerSetDemo.java: codigo fonte Java
+- IntegerSet.java: Codigo Java que define classe(s) IntegerSet, implementa metodo(s) como isEqualTo, insertElement, removeElement.
+- IntegerSetDemo.java: Codigo Java que define classe(s) IntegerSetDemo, possui metodo main para execucao, implementa metodo(s) como main.

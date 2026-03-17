@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- AplicativoFatura.java: codigo fonte Java
-- Fatura.java: codigo fonte Java
+- AplicativoFatura.java: Codigo Java que define classe(s) AplicativoFatura, possui metodo main para execucao, implementa metodo(s) como main.
+- Fatura.java: Codigo Java que define classe(s) Fatura, implementa metodo(s) como getNumeroDePeca, setNumeroDePeca, getDescricaoDaPeca.

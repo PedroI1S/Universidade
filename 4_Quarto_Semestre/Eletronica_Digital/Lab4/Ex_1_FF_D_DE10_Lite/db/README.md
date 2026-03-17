@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Ex_1_FF_D.lpc.html: pagina HTML
+- Ex_1_FF_D.lpc.html: Pagina HTML com estrutura de interface da atividade.

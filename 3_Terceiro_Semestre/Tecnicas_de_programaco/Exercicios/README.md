@@ -13,3 +13,7 @@ Total de arquivos de programacao neste ramo: 21
 - Ex_7: 2 arquivo(s) de programacao
 - Ex_8: 2 arquivo(s) de programacao
 - Ex_9: 3 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

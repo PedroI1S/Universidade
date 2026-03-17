@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Ex8.c: codigo fonte em C
-- Ex9.c: codigo fonte em C
+- Ex8.c: Codigo em C/C++ que possui ponto de entrada principal.
+- Ex9.c: Codigo em C/C++ que possui ponto de entrada principal.

@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- specs.c: codigo fonte em C
-- specs.cpp: codigo fonte em C++
+- specs.c: Codigo em C/C++ com implementacao de exercicio/pratica da disciplina.
+- specs.cpp: Codigo em C/C++ com implementacao de exercicio/pratica da disciplina.

@@ -11,3 +11,7 @@ Total de arquivos de programacao neste ramo: 14
 - Pedro_Lab1: 1 arquivo(s) de programacao
 - Pedro_Lab2: 1 arquivo(s) de programacao
 - Pedro_Lab3: 1 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

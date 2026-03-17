@@ -2,8 +2,8 @@
 
 Total de arquivos de programacao neste ramo: 3
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- DemoPessoaGravar.java: codigo fonte Java
-- DemoPessoaLer.java: codigo fonte Java
-- Pessoa.java: codigo fonte Java
+- DemoPessoaGravar.java: Codigo Java que define classe(s) DemoPessoaGravar, possui metodo main para execucao, implementa metodo(s) como main.
+- DemoPessoaLer.java: Codigo Java que define classe(s) DemoPessoaLer, possui metodo main para execucao, implementa metodo(s) como main.
+- Pessoa.java: Codigo Java que define classe(s) Pessoa, implementa metodo(s) como imprimirDados.

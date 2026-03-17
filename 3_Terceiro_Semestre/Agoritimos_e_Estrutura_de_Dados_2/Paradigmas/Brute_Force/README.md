@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Soma_Sub_Maxima.c: codigo fonte em C
+- Soma_Sub_Maxima.c: Codigo em C/C++ que possui ponto de entrada principal.

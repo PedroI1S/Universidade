@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Lab1.mlx: live script MATLAB
+- Lab1.mlx: Script MATLAB/Octave para exercicio de modelagem/calculo numerico.

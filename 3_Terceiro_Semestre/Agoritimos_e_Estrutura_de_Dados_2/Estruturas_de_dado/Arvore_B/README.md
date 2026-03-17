@@ -2,9 +2,9 @@
 
 Total de arquivos de programacao neste ramo: 4
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Altuara.c: codigo fonte em C
-- ContarPag.c: codigo fonte em C
-- ContarPaginasCheias.c: codigo fonte em C
-- TAD_ArvoreB.c: codigo fonte em C
+- Altuara.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- ContarPag.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- ContarPaginasCheias.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- TAD_ArvoreB.c: Codigo em C/C++ que define estruturas de dados com struct, usa alocacao dinamica de memoria.

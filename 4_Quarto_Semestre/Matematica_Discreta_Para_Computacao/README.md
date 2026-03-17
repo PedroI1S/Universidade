@@ -9,3 +9,7 @@ Total de arquivos de programacao neste ramo: 6
 - Atividade_pratica_3: 1 arquivo(s) de programacao
 - Atividade_pratica_4: 1 arquivo(s) de programacao
 - Atividade_pratica_5: 1 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

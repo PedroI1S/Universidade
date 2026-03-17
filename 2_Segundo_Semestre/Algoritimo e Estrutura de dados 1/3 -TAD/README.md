@@ -2,9 +2,9 @@
 
 Total de arquivos de programacao neste ramo: 4
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Aula 1.c: codigo fonte em C
-- Ex2.c: codigo fonte em C
-- ExN.c: codigo fonte em C
-- Tad.c: codigo fonte em C
+- Aula 1.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- Ex2.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- ExN.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.
+- Tad.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct, usa alocacao dinamica de memoria.

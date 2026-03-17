@@ -8,3 +8,7 @@ Total de arquivos de programacao neste ramo: 34
 - Hashing: 1 arquivo(s) de programacao
 - Paradigmas: 4 arquivo(s) de programacao
 - Trabalho_Final: 4 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

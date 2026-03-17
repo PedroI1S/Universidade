@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Die.java: codigo fonte Java
-- DieDemo.java: codigo fonte Java
+- Die.java: Codigo Java que define classe(s) Die, implementa metodo(s) como roll, GetSideUp.
+- DieDemo.java: Codigo Java que define classe(s) DieDemo, possui metodo main para execucao, implementa metodo(s) como main.

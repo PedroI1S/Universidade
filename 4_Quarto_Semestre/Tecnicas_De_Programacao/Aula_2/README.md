@@ -6,8 +6,8 @@ Total de arquivos de programacao neste ramo: 9
 
 - Exs: 6 arquivo(s) de programacao
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- OlaMundo.java: codigo fonte Java
-- Segundo.java: codigo fonte Java
-- Terceiro.java: codigo fonte Java
+- OlaMundo.java: Codigo Java que define classe(s) OlaMundo, possui metodo main para execucao, implementa metodo(s) como main.
+- Segundo.java: Codigo Java que define classe(s) Segundo, possui metodo main para execucao, implementa metodo(s) como main.
+- Terceiro.java: Codigo Java que define classe(s) Terceiro, possui metodo main para execucao, implementa metodo(s) como main.

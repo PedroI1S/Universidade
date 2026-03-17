@@ -6,6 +6,6 @@ Total de arquivos de programacao neste ramo: 7
 
 - Trabalhos: 6 arquivo(s) de programacao
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- teste.py: script Python
+- teste.py: Script Python com logica de exercicio/pratica da disciplina.

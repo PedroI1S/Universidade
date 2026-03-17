@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Trabalho4.cpp: codigo fonte em C++
+- Trabalho4.cpp: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct.

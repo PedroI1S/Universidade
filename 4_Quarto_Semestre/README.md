@@ -8,3 +8,7 @@ Total de arquivos de programacao neste ramo: 79
 - Eletronica_Digital: 3 arquivo(s) de programacao
 - Matematica_Discreta_Para_Computacao: 6 arquivo(s) de programacao
 - Tecnicas_De_Programacao: 63 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

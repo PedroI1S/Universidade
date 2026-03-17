@@ -11,3 +11,7 @@ Total de arquivos de programacao neste ramo: 25
 - Lista_DEncadeada: 3 arquivo(s) de programacao
 - Lista_Encadeada: 3 arquivo(s) de programacao
 - Pilha_Encadeada: 3 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Email.java: codigo fonte Java
-- usaEmail.java: codigo fonte Java
+- Email.java: Codigo Java que define classe(s) Email, implementa metodo(s) como getRemetente, getDestinatario, toString.
+- usaEmail.java: Codigo Java que define classe(s) usaEmail, possui metodo main para execucao, implementa metodo(s) como main, escrever_email, listar_emails.

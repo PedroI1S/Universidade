@@ -15,3 +15,7 @@ Total de arquivos de programacao neste ramo: 40
 - Ex_8: 2 arquivo(s) de programacao
 - Ex_9: 2 arquivo(s) de programacao
 - LA_2: 15 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

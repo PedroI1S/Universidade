@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- PedroMariano.m: script MATLAB/Octave
+- PedroMariano.m: Script MATLAB/Octave com calculo e geracao de graficos.

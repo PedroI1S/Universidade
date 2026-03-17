@@ -2,8 +2,8 @@
 
 Total de arquivos de programacao neste ramo: 3
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Ex 1.c: codigo fonte em C
-- Ex para nota.c: codigo fonte em C
-- tempCodeRunnerFile.c: codigo fonte em C
+- Ex 1.c: Codigo em C/C++ que possui ponto de entrada principal, usa alocacao dinamica de memoria.
+- Ex para nota.c: Codigo em C/C++ que possui ponto de entrada principal, usa alocacao dinamica de memoria.
+- tempCodeRunnerFile.c: Codigo em C/C++ com implementacao de exercicio/pratica da disciplina.

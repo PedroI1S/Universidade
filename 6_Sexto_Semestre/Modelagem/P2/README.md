@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- solucao_lista_controle.m: script MATLAB/Octave
+- solucao_lista_controle.m: Script MATLAB/Octave para exercicio de modelagem/calculo numerico.

@@ -2,8 +2,8 @@
 
 Total de arquivos de programacao neste ramo: 3
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- MetodosDiretosEqLineares.m: script MATLAB/Octave
-- MetodosIterativosEqLineares.m: script MATLAB/Octave
-- ZerosDeFuncao.m: script MATLAB/Octave
+- MetodosDiretosEqLineares.m: Script MATLAB/Octave com funcao(oes) como eliminacao_gaussiana, fatoracao_lu, resolver_por_lu.
+- MetodosIterativosEqLineares.m: Script MATLAB/Octave com funcao(oes) como metodo_jacobi, metodo_gauss_seidel, eh_diagonal_dominante.
+- ZerosDeFuncao.m: Script MATLAB/Octave com funcao(oes) como metodo_bissecao, metodo_newton.

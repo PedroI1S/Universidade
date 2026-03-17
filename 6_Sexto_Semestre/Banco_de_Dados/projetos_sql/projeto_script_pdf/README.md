@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- trabalho1_solucao.sql: script SQL
+- trabalho1_solucao.sql: Script SQL que cria estruturas de tabelas, insere dados, modifica dados.

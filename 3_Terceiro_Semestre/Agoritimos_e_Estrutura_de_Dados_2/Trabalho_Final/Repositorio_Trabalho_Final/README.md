@@ -2,7 +2,7 @@
 
 Total de arquivos de programacao neste ramo: 2
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Contador_palindromos_1.3.c: codigo fonte em C
-- Contador_palindromos_1.8.c: codigo fonte em C
+- Contador_palindromos_1.3.c: Codigo em C/C++ que possui ponto de entrada principal, usa alocacao dinamica de memoria.
+- Contador_palindromos_1.8.c: Codigo em C/C++ que possui ponto de entrada principal, usa alocacao dinamica de memoria.

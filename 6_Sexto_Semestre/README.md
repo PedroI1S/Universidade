@@ -11,3 +11,7 @@ Total de arquivos de programacao neste ramo: 71
 - Sistemas_Inteligentes: 4 arquivo(s) de programacao
 - Sistemas_Microcontrolados: 25 arquivo(s) de programacao
 - Sistemas_Operacionais: 7 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

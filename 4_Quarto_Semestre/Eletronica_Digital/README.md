@@ -7,3 +7,7 @@ Total de arquivos de programacao neste ramo: 3
 - Lab1: 1 arquivo(s) de programacao
 - Lab3: 1 arquivo(s) de programacao
 - Lab4: 1 arquivo(s) de programacao
+
+## O que cada codigo faz
+
+- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.

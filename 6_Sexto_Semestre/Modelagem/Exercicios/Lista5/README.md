@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Lista5.mlx: live script MATLAB
+- Lista5.mlx: Script MATLAB/Octave para exercicio de modelagem/calculo numerico.

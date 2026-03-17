@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- main.c: codigo fonte em C
+- main.c: Codigo em C/C++ com implementacao de exercicio/pratica da disciplina.

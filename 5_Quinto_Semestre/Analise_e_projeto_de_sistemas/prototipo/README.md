@@ -2,6 +2,6 @@
 
 Total de arquivos de programacao neste ramo: 1
 
-## Arquivos desta pasta
+## O que cada codigo faz
 
-- Site.html: pagina HTML
+- Site.html: Pagina HTML para interface/conteudo com titulo 'Clone do Site Game Hub'.
