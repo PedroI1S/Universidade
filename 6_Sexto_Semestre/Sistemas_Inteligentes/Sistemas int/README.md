@@ -8,4 +8,5 @@ Total de arquivos de programacao neste ramo: 2
 
 ## O que cada codigo faz
 
-- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.
+- Esta pasta concentra exercicios de IA aplicada a jogos no terminal.
+- JogoDaVelha: implementacoes com Minimax e com busca A* combinada com heuristicas adversariais.

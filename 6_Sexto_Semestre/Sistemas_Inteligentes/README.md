@@ -9,4 +9,6 @@ Total de arquivos de programacao neste ramo: 4
 
 ## O que cada codigo faz
 
-- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.
+- Esta pasta organiza atividades de IA para analise de dados e busca em jogos.
+- IA: notebooks de exploracao e pre-processamento de dados para mineracao.
+- Sistemas int: implementacoes de jogo da velha com algoritmos de busca/decisao.

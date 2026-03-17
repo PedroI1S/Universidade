@@ -4,4 +4,4 @@ Total de arquivos de programacao neste ramo: 1
 
 ## O que cada codigo faz
 
-- LaboratorioRespostaFreq.mlx: Script MATLAB/Octave para exercicio de modelagem/calculo numerico.
+- LaboratorioRespostaFreq.mlx: live script focado em resposta em frequencia (Bode/Nyquist) com analise pratica de estabilidade e desempenho.

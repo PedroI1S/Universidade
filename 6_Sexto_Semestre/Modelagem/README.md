@@ -14,4 +14,7 @@ Total de arquivos de programacao neste ramo: 14
 
 ## O que cada codigo faz
 
-- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.
+- Esta pasta reune estudos de modelagem e controle com scripts MATLAB e live scripts.
+- MatLab: simulacoes numericas e analise em frequencia (incluindo Nyquist).
+- P1: modelagem de atuador comb-drive com ODE, equilibrio estatico e simulacao temporal.
+- P2 e laboratorios: resolucao de listas e roteiros praticos em formato .m e .mlx.

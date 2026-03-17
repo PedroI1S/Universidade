@@ -9,4 +9,6 @@ Total de arquivos de programacao neste ramo: 2
 
 ## O que cada codigo faz
 
-- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.
+- Esta pasta organiza listas de exercicios resolvidas em MATLAB Live Script.
+- Lista4: roteiro da parte 2 da lista 4, com simulacao e analise numerica.
+- Lista5: resolucao da lista 5, com experimentos de modelagem/controle.
