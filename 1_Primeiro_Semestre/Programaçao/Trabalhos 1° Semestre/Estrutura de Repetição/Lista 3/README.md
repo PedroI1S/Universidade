@@ -1,18 +1,18 @@
 # Lista 3
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios de repeticao com enfase em numeros primos e padroes.
 
 ## Arquivos de codigo
-- `Ex1.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex10.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex11.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex12.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex2.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex5.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex6.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex7.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex8.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex9.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
+- `Ex1.c`: imprime os primeiros `n` numeros primos.
+- `Ex2.c`: exercicio complementar de repeticao da lista.
+- `Ex5.c`: filtra numeros pares divisiveis por 3.
+- `Ex6.c`: desenha piramide numerica crescente.
+- `Ex7.c`: imprime tabela de fatoriais de 0 ate `n`.
+- `Ex8.c`: lista divisores de cada numero em um intervalo.
+- `Ex9.c`: exercicio complementar da lista.
+- `Ex10.c`: exercicio complementar da lista.
+- `Ex11.c`: exercicio complementar da lista.
+- `Ex12.c`: exercicio complementar da lista.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Arquivos com descricao "complementar" sao variacoes da mesma lista de treino.

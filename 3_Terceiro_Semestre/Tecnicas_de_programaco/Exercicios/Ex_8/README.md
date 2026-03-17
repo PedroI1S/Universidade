@@ -1,10 +1,10 @@
 # Ex_8
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Calculo de frequencia cardiaca maxima e faixa ideal.
 
 ## Arquivos de codigo
-- `AplicacaoFrequenciaCardiaca.java`: Codigo Java que define a classe AplicacaoFrequenciaCardiaca e sua logica associada.
-- `FrequenciaCardiaca.java`: Codigo Java que define a classe FrequenciaCardiaca e sua logica associada.
+- `FrequenciaCardiaca.java`: classe com dados pessoais e metodos de calculo de BPM.
+- `AplicacaoFrequenciaCardiaca.java`: interface de console para entrada e exibicao dos resultados.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute `AplicacaoFrequenciaCardiaca` para realizar os calculos.

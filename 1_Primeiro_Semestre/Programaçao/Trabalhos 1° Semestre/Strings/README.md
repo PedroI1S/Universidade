@@ -1,11 +1,11 @@
 # Strings
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios de processamento de texto em C.
 
 ## Arquivos de codigo
-- `Strings.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Strings2.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Strings3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Strings.c`: conta palavras e tamanho de cada palavra em uma frase.
+- `Strings2.c`: concatena strings e substrings com manipulacao manual de arrays.
+- `Strings3.c`: identifica primeira e ultima letra de cada palavra.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute os programas com entradas diferentes para observar o tratamento de espacos.

@@ -1,11 +1,11 @@
 # Lista 1 - entrega
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios avaliativos de condicoes compostas.
 
 ## Arquivos de codigo
-- `Ex1.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex2.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex1.c`: calcula desconto de INSS por faixa salarial.
+- `Ex2.c`: menu para ordenar numeros ou exibir multiplos de 2.
+- `Ex3.c`: diagnostico por arvore de decisao com sintomas.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile e execute cada exercicio separadamente.

@@ -1,16 +1,16 @@
 # Lista 1
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios de lacos com acumulacao e estatistica simples.
 
 ## Arquivos de codigo
-- `Ex1.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex10.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex2.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex3.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex4.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex5.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex6.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex7.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex1.c`: exibe pares e calcula somas/produtos condicionais.
+- `Ex2.c`: gera tabela de ingressos com variacao de preco.
+- `Ex3.c`: encontra maior e menor valor de uma sequencia.
+- `Ex4.c`: percorre intervalo com acumulacao e media condicionada.
+- `Ex5.c`: coleta dados de pessoas e calcula estatisticas.
+- `Ex6.c`: imprime quantidade de numeros impares solicitada.
+- `Ex7.c`: calcula fatorial com exibicao do processo.
+- `Ex10.c`: exercicio complementar da lista.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Cada arquivo possui `main` proprio e pode ser executado isoladamente.

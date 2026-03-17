@@ -1,12 +1,12 @@
 # 2_Segundo_Semestre
 
-Total de arquivos de programacao neste ramo: 30
+Este semestre concentra praticas de algebra linear em MATLAB e implementacoes de estruturas de dados em C.
 
 ## Subpastas
 
-- Agebra linear: 3 arquivo(s) de programacao
-- Algoritimo e Estrutura de dados 1: 27 arquivo(s) de programacao
+- `Agebra linear`: live scripts com exercicios de matrizes no MATLAB.
+- `Algoritimo e Estrutura de dados 1`: aulas e exercicios de ponteiros, alocacao dinamica, TAD, listas, pilhas e filas.
 
-## O que cada codigo faz
+## Observacao
 
-- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.
+- O codigo esta organizado por tema; cada pasta interna descreve arquivo por arquivo no proprio `README.md`.

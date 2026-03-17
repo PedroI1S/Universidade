@@ -1,14 +1,14 @@
 # Aula_2
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Primeiros exemplos de entrada, saida e estrutura de programa em Java.
 
 ## Arquivos de codigo
-- `OlaMundo.java`: Codigo Java que define a classe OlaMundo e sua logica associada.
-- `Segundo.java`: Codigo Java que define a classe Segundo e sua logica associada.
-- `Terceiro.java`: Codigo Java que define a classe Terceiro e sua logica associada.
+- `OlaMundo.java`: exemplo minimo de programa Java com impressao em console.
+- `Segundo.java`: leitura de inteiro/real/string e uso de valor aleatorio.
+- `Terceiro.java`: entrada e saida via caixas de dialogo (`JOptionPane`).
 
 ## Subpastas
 - `Exs`
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Subpasta `Exs` concentra os exercicios praticos da aula.

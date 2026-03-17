@@ -1,12 +1,12 @@
 # 3_Terceiro_Semestre
 
-Total de arquivos de programacao neste ramo: 77
+Semestre com foco em estruturas de dados avancadas (C) e tecnicas de programacao orientada a objetos (Java).
 
 ## Subpastas
 
-- Agoritimos_e_Estrutura_de_Dados_2: 34 arquivo(s) de programacao
-- Tecnicas_de_programaco: 43 arquivo(s) de programacao
+- `Agoritimos_e_Estrutura_de_Dados_2`: arvores, hashing, paradigmas algoritmicos e trabalho final.
+- `Tecnicas_de_programaco`: introducao e consolidacao de Java com exercicios praticos.
 
-## O que cada codigo faz
+## Observacao
 
-- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.
+- Cada pasta interna documenta manualmente o papel de cada arquivo de codigo.

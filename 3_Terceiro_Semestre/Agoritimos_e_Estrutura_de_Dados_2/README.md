@@ -1,12 +1,12 @@
 # Agoritimos_e_Estrutura_de_Dados_2
 
-Esta pasta organiza o material por subpastas. Os detalhes de implementacao estao nos READMEs internos.
+Conteudo pratico da disciplina de AED2, com implementacoes em C de estruturas classicas e algoritmos.
 
 ## Subpastas
-- `Estruturas_de_dado`
-- `Hashing`
-- `Paradigmas`
-- `Trabalho_Final`
+- `Estruturas_de_dado`: arvore B, ABB, rubro-negra, listas, pilhas e filas encadeadas.
+- `Hashing`: tabela hash com tratamento de colisoes.
+- `Paradigmas`: comparacao de abordagens gulosa, forca bruta e programacao dinamica.
+- `Trabalho_Final`: solucoes para contagem/particao de palindromos.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile os arquivos C individualmente para testar cada implementacao.

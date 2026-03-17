@@ -1,11 +1,11 @@
 # Estrutura de Decisão
 
-Esta pasta organiza o material por subpastas. Os detalhes de implementacao estao nos READMEs internos.
+Exercicios com foco em tomada de decisao por condicoes e selecao de casos.
 
 ## Subpastas
-- `Lista 1`
-- `Lista 1 - entrega`
-- `Lista 2`
+- `Lista 1`: comparacoes, validacoes e jogos simples.
+- `Lista 1 - entrega`: exercicios aplicados com menu e diagnostico por regras.
+- `Lista 2`: ordenacao e decomposicao com condicoes.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Veja os READMEs internos para detalhes por exercicio.

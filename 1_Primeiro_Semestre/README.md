@@ -1,11 +1,11 @@
 # 1_Primeiro_Semestre
 
-Total de arquivos de programacao neste ramo: 73
+Semestre focado em fundamentos de programacao em C.
 
 ## Subpastas
 
-- Programaçao: 73 arquivo(s) de programacao
+- `Programaçao`: avaliacao e listas de exercicios de sequencial, decisao, repeticao, funcoes, vetores, matrizes e strings.
 
-## O que cada codigo faz
+## Observacao
 
-- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.
+- As descricoes detalhadas de cada arquivo estao nos `README.md` internos.

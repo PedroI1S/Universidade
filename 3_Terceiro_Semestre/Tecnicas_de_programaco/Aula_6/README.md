@@ -1,11 +1,11 @@
 # Aula_6
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exemplos de serializacao e desserializacao de objetos em Java.
 
 ## Arquivos de codigo
-- `DemoPessoaGravar.java`: Codigo Java que define a classe DemoPessoaGravar e sua logica associada.
-- `DemoPessoaLer.java`: Codigo Java que define a classe DemoPessoaLer e sua logica associada.
-- `Pessoa.java`: Codigo Java que define a classe Pessoa e sua logica associada.
+- `DemoPessoaGravar.java`: grava objetos `Pessoa` em arquivo binario.
+- `DemoPessoaLer.java`: le objetos `Pessoa` serializados e exibe os dados.
+- `Pessoa.java`: classe serializavel com os atributos usados nos demos.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute primeiro o gravador e depois o leitor para validar o fluxo completo.

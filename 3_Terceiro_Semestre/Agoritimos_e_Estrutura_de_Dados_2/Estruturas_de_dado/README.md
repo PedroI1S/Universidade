@@ -1,15 +1,15 @@
 # Estruturas_de_dado
 
-Esta pasta organiza o material por subpastas. Os detalhes de implementacao estao nos READMEs internos.
+Colecao de implementacoes de estruturas dinamicas em C.
 
 ## Subpastas
-- `Arvore_B`
-- `Arvore_Binaria`
-- `Arvore_Rubro_Negra`
-- `Fila_Encadeada`
-- `Lista_DEncadeada`
-- `Lista_Encadeada`
-- `Pilha_Encadeada`
+- `Arvore_B`: busca e insercao em arvore B.
+- `Arvore_Binaria`: operacoes basicas e exercicios sobre ABB.
+- `Arvore_Rubro_Negra`: contagem de propriedades e remocao com rebalanceamento.
+- `Fila_Encadeada`: fila dinamica baseada em nos.
+- `Lista_DEncadeada`: lista duplamente encadeada e remocao de repeticoes.
+- `Lista_Encadeada`: lista simples com busca e ordenacao.
+- `Pilha_Encadeada`: pilha dinamica aplicada a validacao de parenteses.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile cada pasta separadamente, pois os arquivos foram feitos como exercicios independentes.

@@ -1,12 +1,12 @@
 # Arvore_B
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacoes de operacoes sobre arvore B.
 
 ## Arquivos de codigo
-- `Altuara.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `ContarPag.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `ContarPaginasCheias.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `TAD_ArvoreB.c`: Implementacao em C de estrutura de arvore com rotinas de manipulacao e busca.
+- `Altuara.c`: exercicio para calcular a altura da arvore B.
+- `ContarPag.c`: busca em arvore B com contagem de paginas visitadas.
+- `ContarPaginasCheias.c`: identifica e conta paginas cheias na arvore B.
+- `TAD_ArvoreB.c`: implementacao mais completa do TAD de arvore B (insercao e busca).
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile cada arquivo de forma independente para validar os cenarios de teste.

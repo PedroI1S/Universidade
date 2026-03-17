@@ -1,13 +1,13 @@
 # Trabalho_Final
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacoes do trabalho final sobre identificacao e particionamento de palindromos.
 
 ## Arquivos de codigo
-- `Contador_palindromo_2_file.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `teste.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
+- `Contador_palindromo_2_file.c`: versao que processa texto e grava resultados em arquivo.
+- `teste.c`: versao otimizada com programacao dinamica para particionar texto em palindromos.
 
 ## Subpastas
 - `Repositorio_Trabalho_Final`
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute com entradas maiores para comparar custo entre abordagens.

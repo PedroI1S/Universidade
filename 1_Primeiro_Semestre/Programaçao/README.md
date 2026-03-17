@@ -1,10 +1,10 @@
 # Programaçao
 
-Esta pasta organiza o material por subpastas. Os detalhes de implementacao estao nos READMEs internos.
+Material de programacao do 1o semestre, com exercicios progressivos em C.
 
 ## Subpastas
-- `1°Avaliação`
-- `Trabalhos 1° Semestre`
+- `1°Avaliação`: questoes avaliativas individuais.
+- `Trabalhos 1° Semestre`: listas tematicas por assunto.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Consulte os READMEs das subpastas para ver o objetivo de cada arquivo.

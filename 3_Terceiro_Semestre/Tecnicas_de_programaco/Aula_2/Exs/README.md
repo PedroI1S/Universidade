@@ -1,14 +1,14 @@
 # Exs
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Lista de exercicios basicos de Java (lacos, condicoes e vetores).
 
 ## Arquivos de codigo
-- `Ex_1.java`: Codigo Java que define a classe Ex_1 e sua logica associada.
-- `Ex_2.java`: Codigo Java que define a classe Ex_2 e sua logica associada.
-- `Ex_3.java`: Codigo Java que define a classe Ex_3 e sua logica associada.
-- `Ex_4.java`: Codigo Java que define a classe Ex_4 e sua logica associada.
-- `Ex_5.java`: Codigo Java que define a classe Ex_5 e sua logica associada.
-- `Ex_6.java`: Codigo Java que define a classe Ex_6 e sua logica associada.
+- `Ex_1.java`: imprime numeros impares ate um limite informado.
+- `Ex_2.java`: verifica se um numero e primo.
+- `Ex_3.java`: verifica se um numero e perfeito.
+- `Ex_4.java`: lista numeros primos ate `N`.
+- `Ex_5.java`: gera vetor aleatorio e ordena seus elementos.
+- `Ex_6.java`: gera matriz triangular de 0 e 1.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile e execute cada classe para testar o exercicio correspondente.

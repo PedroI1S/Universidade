@@ -1,12 +1,12 @@
 # Lista 1 - entrega
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios de calculo direto e conversao de valores.
 
 ## Arquivos de codigo
-- `Ex1.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex2.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex4.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex1.c`: calcula quantidade minima de ingressos para cobrir custo do evento.
+- `Ex2.c`: converte segundos para minutos, horas e dias.
+- `Ex3.c`: distribui premio percentual entre tres ganhadores.
+- `Ex4.c`: combina sucessor do triplo com antecessor do dobro de um numero.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute cada exercicio de forma independente.

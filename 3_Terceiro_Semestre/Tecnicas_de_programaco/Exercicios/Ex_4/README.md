@@ -1,11 +1,11 @@
 # Ex_4
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Modelagem de numeros racionais com simplificacao.
 
 ## Arquivos de codigo
-- `Rational.java`: Codigo Java que define a classe Rational e sua logica associada.
-- `RationalDemo.java`: Codigo Java que define a classe RationalDemo e sua logica associada.
-- `teste.java`: Codigo Java que define a classe teste e sua logica associada.
+- `Rational.java`: classe para fracoes com soma, subtracao, multiplicacao e divisao.
+- `RationalDemo.java`: programa de teste interativo da classe racional.
+- `teste.java`: arquivo auxiliar de testes.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute `RationalDemo` para validar as operacoes entre fracoes.

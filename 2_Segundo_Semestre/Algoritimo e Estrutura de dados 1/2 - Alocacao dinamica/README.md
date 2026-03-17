@@ -1,11 +1,11 @@
 # 2 - Alocacao dinamica
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios de uso de memoria dinamica com `malloc` e `realloc`.
 
 ## Arquivos de codigo
-- `Ex 1.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex para nota.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `tempCodeRunnerFile.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex 1.c`: arquivo de estudo com exemplos comentados de alocacao dinamica.
+- `Ex para nota.c`: aloca dinamicamente string e vetor, decodificando valores numericos em caracteres.
+- `tempCodeRunnerFile.c`: implementa funcao para gerar progressao aritmetica retornando vetor alocado dinamicamente.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile os exercicios individualmente para validar o comportamento de alocacao e realocacao.

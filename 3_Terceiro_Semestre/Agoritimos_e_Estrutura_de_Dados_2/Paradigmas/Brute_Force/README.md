@@ -1,9 +1,9 @@
 # Brute_Force
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacao por forca bruta para busca da melhor solucao.
 
 ## Arquivos de codigo
-- `Soma_Sub_Maxima.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
+- `Soma_Sub_Maxima.c`: calcula a soma maxima de subvetor por exploracao exaustiva.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Arquivo util para comparacao de complexidade com a versao de programacao dinamica.

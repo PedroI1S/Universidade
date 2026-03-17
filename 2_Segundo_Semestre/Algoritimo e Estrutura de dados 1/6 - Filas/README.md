@@ -1,13 +1,13 @@
 # 6 - Filas
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios com filas sequenciais e circulares.
 
 ## Arquivos de codigo
-- `Ex1.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex_nota.c`: Programa em C com funcao principal e uso de estruturas de dados.
-- `Fila.c`: Implementacao em C das operacoes de fila (insercao, remocao e consulta).
-- `Fila.h`: Cabecalho com tipos, prototipos e constantes utilizados pelos fontes C/C++ desta pasta.
-- `TAD.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex1.c`: implementa fila circular e intercalacao de duas filas com criterio de comparacao.
+- `Ex_nota.c`: simula gerenciamento de transito com tres filas e processamento por rodadas.
+- `Fila.c`: implementacao completa da fila circular (criar, enfileirar, desenfileirar, acessar extremos e imprimir).
+- `Fila.h`: interface da fila com as estruturas e prototipos das operacoes.
+- `TAD.c`: implementacao alternativa de fila para exercicios de TAD.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile os arquivos conforme o exercicio desejado; alguns dependem de `Fila.h`/`Fila.c`.

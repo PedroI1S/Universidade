@@ -1,12 +1,12 @@
 # Arvore_Rubro_Negra
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacoes e exercicios sobre propriedades da arvore rubro-negra.
 
 ## Arquivos de codigo
-- `QuantidadePI.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `QuantidadeV.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Remocao.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `TAD_RNtree.c`: Implementacao em C de estrutura de arvore com rotinas de manipulacao e busca.
+- `QuantidadePI.c`: conta os nos pretos internos da arvore.
+- `QuantidadeV.c`: conta os nos vermelhos para validar propriedades de coloracao.
+- `Remocao.c`: implementa remocao com casos de ajuste e rebalanceamento.
+- `TAD_RNtree.c`: TAD base da rubro-negra com insercao e rotacoes.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile os arquivos em C para testar os casos de insercao/remocao e verificacao.

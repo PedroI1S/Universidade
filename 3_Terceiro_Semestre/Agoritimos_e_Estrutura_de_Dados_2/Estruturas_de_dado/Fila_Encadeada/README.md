@@ -1,11 +1,11 @@
 # Fila_Encadeada
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacao de fila dinamica encadeada.
 
 ## Arquivos de codigo
-- `Concatenacao.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `fila.c`: Implementacao em C das operacoes de fila (insercao, remocao e consulta).
-- `fila.h`: Cabecalho com tipos, prototipos e constantes utilizados pelos fontes C/C++ desta pasta.
+- `Concatenacao.c`: concatena duas filas encadeadas em uma unica estrutura.
+- `fila.c`: implementa operacoes basicas de enfileirar e desenfileirar.
+- `fila.h`: cabecalho da estrutura e das funcoes da fila.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile os arquivos em conjunto (`fila.c` + arquivo de teste/exercicio).

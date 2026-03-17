@@ -1,9 +1,9 @@
 # Hashing
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacao de tabela hash com estrutura auxiliar de arvore rubro-negra.
 
 ## Arquivos de codigo
-- `Tebela_RBtree.c`: Implementacao em C de estrutura de arvore com rotinas de manipulacao e busca.
+- `Tebela_RBtree.c`: combina hashing com rubro-negra para organizar colisoes por bucket.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile o arquivo para estudar a estrategia de tratamento de colisoes adotada.

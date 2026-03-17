@@ -1,10 +1,10 @@
 # Ex_1
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Simulacao simples de lancamento de dados.
 
 ## Arquivos de codigo
-- `Die.java`: Codigo Java que define a classe Die e sua logica associada.
-- `DieDemo.java`: Codigo Java que define a classe DieDemo e sua logica associada.
+- `Die.java`: classe que representa um dado de 6 faces e gera valores aleatorios.
+- `DieDemo.java`: instancia dados e demonstra lancamentos/somas.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile ambas as classes e execute `DieDemo`.

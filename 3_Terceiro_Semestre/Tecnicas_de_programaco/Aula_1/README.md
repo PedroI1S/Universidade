@@ -1,13 +1,13 @@
 # Aula_1
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios iniciais de logica em C.
 
 ## Arquivos de codigo
-- `Ex_1.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex_2.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex_3.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex_4.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex_5.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex_1.c`: aproxima o numero `e` usando serie de Taylor.
+- `Ex_2.c`: conta quantos digitos pares existem em um numero.
+- `Ex_3.c`: monta matriz com padrao de 0, 1 e -1 em relacao a diagonal.
+- `Ex_4.c`: calcula raiz quadrada inteira por subtracoes sucessivas.
+- `Ex_5.c`: arquivo de rascunho sem solucao final.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile cada exercicio separadamente para validar os resultados.

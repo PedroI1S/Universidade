@@ -1,10 +1,10 @@
 # Lista 1
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios de manipulacao de digitos.
 
 ## Arquivos de codigo
-- `Ex8.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex9.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex8.c`: separa e exibe os digitos de um numero por posicao.
+- `Ex9.c`: inverte os tres primeiros digitos extraidos de um numero.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile e rode os arquivos para conferir os resultados de decomposicao numerica.

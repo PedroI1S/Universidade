@@ -1,10 +1,10 @@
 # Ex_6
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Modelagem de empregado com calculo de salario anual.
 
 ## Arquivos de codigo
-- `Empregado.java`: Codigo Java que define a classe Empregado e sua logica associada.
-- `TesteEmpregado.java`: Codigo Java que define a classe TesteEmpregado e sua logica associada.
+- `Empregado.java`: classe de empregado com atributos e operacoes de reajuste.
+- `TesteEmpregado.java`: demonstra salario anual e aplicacao de aumento.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute `TesteEmpregado` para validar os calculos.

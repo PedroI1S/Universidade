@@ -1,9 +1,9 @@
 # Funcoes
 
-Esta pasta organiza o material por subpastas. Os detalhes de implementacao estao nos READMEs internos.
+Exercicios de modularizacao com funcoes em C.
 
 ## Subpastas
-- `Lista 1 - para entrega`
+- `Lista 1 - para entrega`: funcoes para verificacao de propriedades numericas e desenho em matriz.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Detalhes por arquivo estao no README da lista.

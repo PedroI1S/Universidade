@@ -1,18 +1,18 @@
 # Lista 2
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios de classificacao e formulas condicionais.
 
 ## Arquivos de codigo
-- `Ex1.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex10.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex2.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex4.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex5.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex6.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex7.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex8.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex9.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
+- `Ex1.c`: classifica idade em categorias esportivas.
+- `Ex2.c`: identifica trimestre a partir do mes informado.
+- `Ex3.c`: calcula e classifica IMC.
+- `Ex4.c`: compara dois numeros (maior, menor ou iguais).
+- `Ex5.c`: encontra o valor do meio entre tres numeros.
+- `Ex6.c`: calcula gasto energetico basal com base em sexo, idade, altura e peso.
+- `Ex7.c`: exercicio complementar de condicoes da lista.
+- `Ex8.c`: exercicio complementar de selecao da lista.
+- `Ex9.c`: exercicio complementar de classificacao numerica.
+- `Ex10.c`: exercicio adicional da lista com estrutura sequencial/condicional.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Rode cada arquivo individualmente para validar as regras implementadas.

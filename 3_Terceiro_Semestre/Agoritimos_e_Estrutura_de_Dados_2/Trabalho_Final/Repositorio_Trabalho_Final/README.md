@@ -1,10 +1,10 @@
 # Repositorio_Trabalho_Final
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Versoes intermediarias do projeto de contador de palindromos.
 
 ## Arquivos de codigo
-- `Contador_palindromos_1.3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Contador_palindromos_1.8.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Contador_palindromos_1.3.c`: versao inicial com interacao de usuario para montar a cadeia de entrada.
+- `Contador_palindromos_1.8.c`: evolucao com alocacao dinamica para armazenar resultados.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Arquivos uteis para acompanhar a evolucao da solucao ao longo do trabalho.

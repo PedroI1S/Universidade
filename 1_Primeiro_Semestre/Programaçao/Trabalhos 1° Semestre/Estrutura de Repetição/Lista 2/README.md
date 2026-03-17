@@ -1,14 +1,14 @@
 # Lista 2
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Lista de repeticao com sequencias e processamento de entradas.
 
 ## Arquivos de codigo
-- `Ex1.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex2.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex4.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex5.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex6.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
+- `Ex1.c`: gera sequencia de Fibonacci para quantidade informada.
+- `Ex2.c`: imprime sequencia de pares com formatacao.
+- `Ex3.c`: simula crescimento de duas arvores ao longo dos anos.
+- `Ex4.c`: conta letras maiusculas/minusculas e caracteres nao alfabeticos.
+- `Ex5.c`: simula caixa com total de compra e decomposicao do troco.
+- `Ex6.c`: calcula contagens e media para numeros informados ate 0.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute os exercicios via terminal com as entradas esperadas em cada enunciado.

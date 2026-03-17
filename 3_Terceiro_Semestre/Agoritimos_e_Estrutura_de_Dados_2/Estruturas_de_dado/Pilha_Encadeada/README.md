@@ -1,11 +1,11 @@
 # Pilha_Encadeada
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacao de pilha baseada em lista encadeada.
 
 ## Arquivos de codigo
-- `Balanco_parentese.c`: Programa em C com funcao principal e uso de estruturas de dados.
-- `pilha.c`: Implementacao em C das operacoes de pilha (empilhar, desempilhar e topo).
-- `pilha.h`: Cabecalho com tipos, prototipos e constantes utilizados pelos fontes C/C++ desta pasta.
+- `Balanco_parentese.c`: aplica a pilha para validar balanceamento de parenteses.
+- `pilha.c`: implementa empilhar, desempilhar e consulta ao topo.
+- `pilha.h`: cabecalho com estrutura e prototipos da pilha.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile com os arquivos de teste para observar o comportamento LIFO.

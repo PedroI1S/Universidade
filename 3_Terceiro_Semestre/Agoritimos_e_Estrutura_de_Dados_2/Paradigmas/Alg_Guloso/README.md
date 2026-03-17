@@ -1,10 +1,10 @@
 # Alg_Guloso
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacoes com estrategia gulosa.
 
 ## Arquivos de codigo
-- `Fracao_egipcia.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Sequenciamento_Tarefas_Maquina.c`: Programa em C com funcao principal e uso de estruturas de dados.
+- `Fracao_egipcia.c`: decompõe uma fracao em soma de fracoes egipcias.
+- `Sequenciamento_Tarefas_Maquina.c`: sequencia tarefas para reduzir atrasos em uma maquina.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile e compare os resultados com as abordagens das outras subpastas de paradigmas.

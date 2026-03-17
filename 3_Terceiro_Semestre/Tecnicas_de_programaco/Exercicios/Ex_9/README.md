@@ -1,11 +1,11 @@
 # Ex_9
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Simulacao de sistema de email orientado a objetos.
 
 ## Arquivos de codigo
-- `EmailAPIPanel.java`: Codigo Java que define a classe EmailAPIPanel e sua logica associada.
-- `email.java`: Codigo Java que define a classe email e sua logica associada.
-- `usaEmail.java`: Codigo Java que define a classe usaEmail e sua logica associada.
+- `email.java`: classe de dominio para mensagem de email (remetente, destinatario, assunto e corpo).
+- `usaEmail.java`: fluxo principal de uso com leitura, escrita e remocao de mensagens.
+- `EmailAPIPanel.java`: componente/interface de apoio para interacao com a aplicacao.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile todas as classes da pasta e execute `usaEmail`.

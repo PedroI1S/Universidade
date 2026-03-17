@@ -1,9 +1,9 @@
 # Prog_dinamica
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacao por programacao dinamica para o mesmo problema da subpasta de forca bruta.
 
 ## Arquivos de codigo
-- `Sub_max.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
+- `Sub_max.c`: calcula soma maxima de subvetor reutilizando resultados parciais.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compare o resultado com `Brute_Force/Soma_Sub_Maxima.c` para ver ganho de eficiencia.

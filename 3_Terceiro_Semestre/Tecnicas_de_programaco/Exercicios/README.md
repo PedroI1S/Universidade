@@ -1,17 +1,17 @@
 # Exercicios
 
-Esta pasta organiza o material por subpastas. Os detalhes de implementacao estao nos READMEs internos.
+Lista de exercicios de POO em Java, cada um com classes de dominio e classe de teste/aplicacao.
 
 ## Subpastas
-- `Ex_1`
-- `Ex_2`
-- `Ex_3`
-- `Ex_4`
-- `Ex_5`
-- `Ex_6`
-- `Ex_7`
-- `Ex_8`
-- `Ex_9`
+- `Ex_1`: simulacao de dado.
+- `Ex_2`: operacoes com numeros complexos.
+- `Ex_3`: conjunto de inteiros com uniao/intersecao.
+- `Ex_4`: operacoes com numeros racionais.
+- `Ex_5`: modelagem de fatura.
+- `Ex_6`: modelagem de empregado e salario.
+- `Ex_7`: classe de data.
+- `Ex_8`: frequencia cardiaca.
+- `Ex_9`: simulacao de caixa de email.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Consulte cada subpasta para detalhes de classes e fluxo de execucao.

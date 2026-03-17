@@ -1,9 +1,9 @@
 # Ponteiros e Structs
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicio focado no uso combinado de ponteiros e registros (`struct`).
 
 ## Arquivos de codigo
-- `Ponteiros em structs.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ponteiros em structs.c`: demonstra manipulacao de campos de uma struct por ponteiro e acesso indireto aos dados.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile o arquivo em C para observar a diferenca entre acesso direto e por ponteiro.

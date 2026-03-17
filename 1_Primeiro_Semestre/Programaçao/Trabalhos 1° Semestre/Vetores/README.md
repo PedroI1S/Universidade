@@ -1,10 +1,10 @@
 # Vetores
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios com vetores e funcoes auxiliares.
 
 ## Arquivos de codigo
-- `Vetores.h`: Cabecalho com tipos, prototipos e constantes utilizados pelos fontes C/C++ desta pasta.
-- `vetores.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Vetores.h`: declaracoes de funcoes e estruturas de apoio dos exercicios.
+- `vetores.c`: implementa exercicios de analise, separacao e inversao de vetores.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compilar junto do cabecalho para testar os exercicios comentados no arquivo.

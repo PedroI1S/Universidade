@@ -1,11 +1,11 @@
 # Lista 2
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios de ordenacao e decomposicao numerica com condicoes.
 
 ## Arquivos de codigo
-- `Ex1.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex2.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex1.c`: ordena os lados e prepara verificacoes geometricas.
+- `Ex2.c`: decompõe valor em cedulas e moedas.
+- `Ex3.c`: separa digitos, soma pares/impares e testa multiplo de 5.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Cada arquivo e independente e pode ser compilado separadamente.

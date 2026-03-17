@@ -1,10 +1,10 @@
 # Ex_7
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacao de classe de data com validacao basica.
 
 ## Arquivos de codigo
-- `Date.java`: Codigo Java que define a classe Date e sua logica associada.
-- `TesteDate.java`: Codigo Java que define a classe TesteDate e sua logica associada.
+- `Date.java`: classe com campos de data e validacao de mes/dia.
+- `TesteDate.java`: cria objetos de data e testa atualizacoes.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile as classes e rode `TesteDate`.

@@ -1,11 +1,11 @@
 # Paradigmas
 
-Esta pasta organiza o material por subpastas. Os detalhes de implementacao estao nos READMEs internos.
+Comparacao entre diferentes paradigmas de resolucao de problemas algoritmicos.
 
 ## Subpastas
-- `Alg_Guloso`
-- `Brute_Force`
-- `Prog_dinamica`
+- `Alg_Guloso`: escolhas locais para obter boa solucao com custo baixo.
+- `Brute_Force`: exploracao exaustiva de combinacoes.
+- `Prog_dinamica`: reaproveitamento de subproblemas para reduzir complexidade.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Cada subpasta contem exercicios equivalentes para comparar abordagem e desempenho.

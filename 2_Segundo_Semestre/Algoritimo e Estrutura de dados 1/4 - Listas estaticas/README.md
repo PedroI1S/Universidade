@@ -1,13 +1,13 @@
 # 4 - Listas estaticas
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios com listas implementadas em vetor estatico.
 
 ## Arquivos de codigo
-- `Ex1.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex2.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `List.h`: Cabecalho com tipos, prototipos e constantes utilizados pelos fontes C/C++ desta pasta.
-- `list.c`: Implementacao em C de lista com rotinas de insercao, remocao e percorrimento.
+- `Ex1.c`: implementa operacoes de lista/fila sequencial, incluindo insercao, remocao e intercalacao.
+- `Ex2.c`: implementa lista com busca, insercao ordenada, concatenacao e separacao por pares/impares.
+- `Ex3.c`: implementa TAD de lista estatica com funcoes basicas e teste de uso.
+- `List.h`: declaracoes de tipos e prototipos das funcoes da lista.
+- `list.c`: implementacao principal do TAD da lista estatica, incluindo inversao e impressao.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile os exercicios de forma independente para validar cada variacao da estrutura.

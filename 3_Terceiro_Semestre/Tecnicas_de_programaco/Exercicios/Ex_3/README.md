@@ -1,10 +1,10 @@
 # Ex_3
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Implementacao de conjunto de inteiros no intervalo 0..100.
 
 ## Arquivos de codigo
-- `IntegerSet.java`: Codigo Java que define a classe IntegerSet e sua logica associada.
-- `IntegerSetDemo.java`: Codigo Java que define a classe IntegerSetDemo e sua logica associada.
+- `IntegerSet.java`: classe com operacoes de uniao, intersecao e manipulacao de elementos.
+- `IntegerSetDemo.java`: menu de teste para as operacoes da classe.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Compile as duas classes e rode `IntegerSetDemo`.

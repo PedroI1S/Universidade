@@ -1,14 +1,14 @@
 # Lista 1
 
-Resumo dos arquivos de codigo desta pasta e de suas funcoes no contexto da disciplina.
+Exercicios diversos com comparacoes e validacoes.
 
 ## Arquivos de codigo
-- `Ex3.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex4.5.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex6.c`: Programa em C com funcao principal para executar e testar a logica do exercicio.
-- `Ex7.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex8.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
-- `Ex9.c`: Codigo-fonte em C com a implementacao principal do exercicio desta pasta.
+- `Ex3.c`: ordena tres numeros em ordem crescente/decrescente.
+- `Ex4.5.c`: valida data considerando meses e ano bissexto.
+- `Ex6.c`: jogo de adivinhacao com feedback de tentativa.
+- `Ex7.c`: classifica caractere como vogal ou consoante.
+- `Ex8.c`: compara duas datas e identifica a mais recente.
+- `Ex9.c`: calcula aumento salarial por cargo.
 
 ## Como usar
-- Abra os arquivos da linguagem correspondente e execute/compile conforme a ferramenta da disciplina.
+- Execute os exercicios individualmente via terminal.
