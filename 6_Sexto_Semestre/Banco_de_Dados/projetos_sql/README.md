@@ -9,6 +9,6 @@ Total de arquivos de programacao neste ramo: 5
 
 ## O que cada codigo faz
 
-- 0a.sql: Script SQL que cria estruturas de tabelas.
-- 0b.sql: Script SQL que cria estruturas de tabelas.
-- 0c.sql: Script SQL que cria estruturas de tabelas, insere dados, consulta dados, modifica dados.
+- 0a.sql: cria schema base de funcionarios, departamentos, motoristas e veiculos, incluindo chaves estrangeiras e alteracoes de estrutura.
+- 0b.sql: modela um cenario de concessionaria (marca, modelo, filial, veiculos e disponibilidade) com constraints, alteracoes e indices.
+- 0c.sql: expande o cenario da concessionaria com clientes e vendas, popula dados de exemplo e aplica ajustes de modelagem (status e revisao de tabelas).

@@ -11,4 +11,7 @@ Total de arquivos de programacao neste ramo: 9
 
 ## O que cada codigo faz
 
-- Esta pasta nao possui codigo diretamente; os codigos estao nas subpastas acima.
+- Esta pasta concentra exercicios de modelagem relacional, DDL, DML, consultas SQL e recursos avancados (view, trigger e funcao).
+- Codigos: exemplos introdutorios com C (arquivo binario) e SQL basico.
+- Postgrees e Trabalho _2: consultas no dvdrental com joins, agregacoes, visoes e trigger.
+- projetos_sql: scripts de criacao/ajuste de schema para cenarios de locadora e cadastro tecnico.

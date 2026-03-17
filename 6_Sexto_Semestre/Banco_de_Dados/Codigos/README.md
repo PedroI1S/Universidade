@@ -4,5 +4,5 @@ Total de arquivos de programacao neste ramo: 2
 
 ## O que cada codigo faz
 
-- Cadastro_exemplo.c: Codigo em C/C++ que possui ponto de entrada principal, define estruturas de dados com struct.
-- teste.sql: Script SQL que cria estruturas de tabelas, insere dados, consulta dados.
+- Cadastro_exemplo.c: programa em C que cadastra pessoas em struct Cadastro, le dados via terminal e grava registros em arquivo binario cadastro.dat.
+- teste.sql: script de introducao ao PostgreSQL que cria a tabela alunos, insere dois registros e consulta os dados salvos.
