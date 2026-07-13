@@ -1,0 +1,31 @@
+v 4
+file . "gerador_sinais_tb.vhd" "71d3d64136cc697a93c2681cfe1e1181fce4d9d7" "20260630151132.956":
+  entity gerador_sinais_tb at 9( 429) + 0 on 51;
+  architecture sim of gerador_sinais_tb at 17( 557) + 0 on 52;
+file . "gerador_pkg_tb.vhd" "b01fe46f02a4f486542cb6676f4cc3196459c8dc" "20260630151132.882":
+  entity gerador_pkg_tb at 9( 429) + 0 on 47;
+  architecture sim of gerador_pkg_tb at 17( 563) + 0 on 48;
+file . "decodificador_7seg_tb.vhd" "9edf7185aeac5e7a5557e3867cb372c6868a1fd2" "20260630151132.861":
+  entity decodificador_7seg_tb at 9( 429) + 0 on 45;
+  architecture sim of decodificador_7seg_tb at 16( 544) + 0 on 46;
+file . "conformador_onda_tb.vhd" "86933716ac1f52ce559a63f5f20db87fa6c0ea35" "20260630151132.806":
+  entity conformador_onda_tb at 9( 429) + 0 on 41;
+  architecture sim of conformador_onda_tb at 16( 542) + 0 on 42;
+file . "acumulador_fase_tb.vhd" "5a75db5546100e6ff3738fbc83b1c1362c036136" "20260630151132.743":
+  entity acumulador_fase_tb at 9( 429) + 0 on 37;
+  architecture sim of acumulador_fase_tb at 17( 558) + 0 on 38;
+file . "gerador_pkg.vhd" "45c9aadfab473689c79fae339d9ec9a2b5fd22fb" "20260630151132.621":
+  package gerador_pkg at 9( 429) + 0 on 33 body;
+  package body gerador_pkg at 57( 1890) + 0 on 34;
+file . "acumulador_fase.vhd" "73fdc5038533fa1d3629b779da8b05eca35b0dd0" "20260630151132.716":
+  entity acumulador_fase at 9( 429) + 0 on 35;
+  architecture rtl of acumulador_fase at 23( 791) + 0 on 36;
+file . "conformador_onda.vhd" "76936ffa03f9e228ae09a0292b71e5505a950960" "20260630151132.775":
+  entity conformador_onda at 9( 429) + 0 on 39;
+  architecture rtl of conformador_onda at 22( 758) + 0 on 40;
+file . "decodificador_7seg.vhd" "a42a8536d45102bbb2a52e3cd9efb91209285308" "20260630151132.834":
+  entity decodificador_7seg at 9( 429) + 0 on 43;
+  architecture rtl of decodificador_7seg at 20( 674) + 0 on 44;
+file . "gerador_sinais.vhd" "af892109d33edf36194b980c0feb985c9b9ffd86" "20260630151132.899":
+  entity gerador_sinais at 9( 429) + 0 on 49;
+  architecture rtl of gerador_sinais at 36( 1477) + 0 on 50;

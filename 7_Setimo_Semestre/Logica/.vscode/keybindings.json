@@ -1,0 +1,12 @@
+[
+  {
+    "key": "cmd+alt+v",
+    "command": "workbench.action.tasks.runTask",
+    "args": "VHDL: Open waveform"
+  },
+  {
+    "key": "cmd+alt+r",
+    "command": "workbench.action.tasks.runTask",
+    "args": "VHDL: Run all (Project folder)"
+  }
+]

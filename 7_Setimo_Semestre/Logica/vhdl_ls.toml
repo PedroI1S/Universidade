@@ -1,0 +1,7 @@
+[libraries]
+defaultlib.files = [
+  "projeto1/**/*.vhd",
+  "projeto1/**/*.vhdl",
+  "projeto2/**/*.vhd",
+  "projeto2/**/*.vhdl"
+]

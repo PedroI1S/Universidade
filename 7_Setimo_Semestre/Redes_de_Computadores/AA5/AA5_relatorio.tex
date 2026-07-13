@@ -1,0 +1,86 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\usepackage{setspace}
+\geometry{margin=2.5cm}
+\setstretch{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+
+\begin{document}
+
+\begin{center}
+\textbf{Ministério da Educação}\\
+\textbf{Universidade Tecnológica Federal do Paraná -- Campus Pato Branco}\\
+\textbf{Departamento Acadêmico de Informática}\\[0.5em]
+\textbf{Disciplina: Redes de Computadores} \hfill \textbf{Prof. Dr. Eden Dosciatti}
+
+\vspace{1.2em}
+\Large\textbf{Atividade Avaliativa 5 -- UDP (Camada de Transporte)}
+\end{center}
+
+\vspace{1em}
+\noindent\textbf{Nome:} Pedro Mariano dos Santos \hfill \textbf{RA:} 2562790
+
+\vspace{1em}
+
+\section*{Etapa 1: Captura real no Wireshark}
+
+Nesta etapa, foi analisada uma consulta DNS (que usa UDP na porta 53) para observar os campos fixos do cabeçalho UDP.
+
+\textbf{Pacote analisado:} foi analisado o par de pacotes DNS (consulta e resposta) gerado pelo comando \texttt{nslookup google.com}. No print detalhado do Wireshark, a resposta aparece com \texttt{Src Port 53} e \texttt{Dst Port 51937}, confirmando a inversão em relação ao pacote de consulta.
+
+\subsection*{Campos do cabeçalho UDP}
+
+\textbf{Source Port:} \texttt{51937} (na consulta DNS, porta efêmera do cliente).
+
+\textbf{Destination Port:} \texttt{53}, porque é a porta padrão (well-known) reservada para o serviço DNS.
+
+\textbf{Length:} \texttt{52 bytes}.
+
+\textbf{Checksum:} \texttt{0x702a} (marcado como \textit{unverified} no Wireshark).
+
+\textbf{Existe número de sequência ou confirmação (ACK) no UDP?}
+Não. O UDP é um protocolo não orientado à conexão e não implementa confirmação de entrega, retransmissão nem controle de ordem na camada de transporte.
+
+\section*{Etapa 2: Simulação no Packet Tracer}
+
+A topologia foi montada com 1 PC, 1 switch e 1 servidor, com IPs estáticos:
+\begin{itemize}
+\item PC: \texttt{192.168.1.10/24}
+\item Servidor: \texttt{192.168.1.100/24}
+\item DNS no PC apontando para: \texttt{192.168.1.100}
+\end{itemize}
+
+No servidor DNS, foi criado o registro \texttt{www.udp.redes -> 1.1.1.1}. Em modo simulação, foi executado \texttt{nslookup www.udp.redes}.
+
+\subsection*{Comportamento observado do UDP}
+
+\textbf{Porta de origem (consulta):} \texttt{1025}.
+
+\textbf{Porta de destino (consulta):} \texttt{53}.
+
+\textbf{Inversão de portas na resposta:} sim, o servidor responde com origem \texttt{53} e destino na porta efêmera do cliente.
+
+\textbf{Ausência de estabelecimento de conexão:} o primeiro pacote já carrega os dados da consulta, sem handshake prévio.
+
+\textbf{Se a resposta se perder no caminho:} o servidor DNS não retransmite por conta própria, e o cliente aguarda até ocorrer timeout.
+
+\section*{Respostas objetivas solicitadas}
+
+\textbf{1) Qual a porta de destino usada pelo DNS?}\\
+\texttt{53}.
+
+\textbf{2) O UDP estabeleceu conexão antes de enviar os dados?}\\
+Não, o envio ocorre sem fase de estabelecimento de conexão.
+
+\textbf{3) Quantos campos existem no cabeçalho UDP visto no simulador?}\\
+Quatro campos fixos: Source Port, Destination Port, Length e Checksum.
+
+\section*{Conclusão}
+
+A atividade mostrou, de forma prática, que o UDP é enxuto e rápido, mas não oferece garantias de entrega. Isso fica claro tanto na captura real do Wireshark quanto na simulação no Packet Tracer: o protocolo envia e recebe datagramas sem controle de conexão, sem confirmação e sem retransmissão automática.
+
+\end{document}

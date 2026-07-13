@@ -1,0 +1,93 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\usepackage{setspace}
+\geometry{margin=2.5cm}
+\setstretch{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+
+\newcommand{\resposta}[1]{\textbf{Resposta:} #1}
+
+\begin{document}
+
+\begin{center}
+\textbf{Ministério da Educação}\\
+\textbf{Universidade Tecnológica Federal do Paraná -- Campus Pato Branco}\\
+\textbf{Departamento Acadêmico de Informática}\\[0.5em]
+\textbf{Disciplina: Redes de Computadores} \hfill \textbf{Prof. Dr. Eden Dosciatti}
+
+\vspace{1.2em}
+\Large\textbf{Atividade Avaliativa 3}
+\end{center}
+
+\vspace{1em}
+\noindent\textbf{Nome:} Pedro Mariano
+
+\vspace{1.0em}
+\section*{Prática: Análise de pacotes DNS com Wireshark}
+
+\subsection*{Etapa 2: Análise de pacotes DNS}
+
+\noindent\textbf{1. Qual protocolo da camada de Transporte foi utilizado para transportar as mensagens de requisição e resposta do DNS? (UDP ou TCP?) Por que esse protocolo é mais comum para DNS?}
+
+\resposta{Foi utilizado o protocolo \textbf{UDP}. Esse protocolo é o mais comum para consultas DNS por apresentar baixo overhead e menor latência, características adequadas ao modelo simples de requisição e resposta utilizado na maioria das resoluções na porta 53.}
+
+\vspace{0.8em}
+\noindent\textbf{Análise da Mensagem de Requisição (Query)}
+
+\noindent\textbf{2. Qual o endereço IP e a porta de origem e destino da mensagem de requisição ao DNS?}
+
+\resposta{Na consulta para \textit{www.pb.utfpr.edu.br} (Type A), a requisição DNS foi enviada de \textbf{192.168.0.113:36140} para \textbf{192.168.0.1:53}.}
+
+\vspace{0.8em}
+\noindent\textbf{3. Qual o IP do servidor de nomes que recebeu a requisição (o seu servidor DNS local)?}
+
+\resposta{\textbf{192.168.0.1}.}
+
+\vspace{0.8em}
+\noindent\textbf{4. Na seção ``Queries'' da mensagem, qual o Name (nome) que está sendo pesquisado e qual o Type (tipo) do registro solicitado?}
+
+\resposta{Foi observado \textbf{Name = www.pb.utfpr.edu.br}, com consultas dos tipos \textbf{A} (resolução para endereço IPv4) e \textbf{HTTPS} (Type 65, associado a informações de serviço HTTPS/SVCB, frequentemente geradas por navegadores modernos).}
+
+\vspace{0.8em}
+\noindent\textbf{Análise da Mensagem de Resposta}
+
+\noindent\textbf{5. Qual o endereço IP e a porta de origem e de destino da mensagem de resposta?}
+
+\resposta{Para a mesma consulta, a resposta DNS retornou de \textbf{192.168.0.1:53} para \textbf{192.168.0.113:36140}.}
+
+\vspace{0.8em}
+\noindent\textbf{6. Na seção ``Answers'', apresente os valores dos campos Name, Type, TTL (Time to Live) e Address para cada resposta recebida.}
+
+\resposta{Valores observados na captura para \textit{www.pb.utfpr.edu.br}:}
+
+\begin{itemize}
+  \item \textbf{Name:} www.pb.utfpr.edu.br \quad \textbf{Type:} A \quad \textbf{TTL:} 21600 \quad \textbf{Address:} 200.134.81.41
+  \item \textbf{Name:} pb.utfpr.edu.br \quad \textbf{Type:} SOA (resposta associada à consulta HTTPS/Type 65) \quad \textbf{TTL:} 1800 \quad \textbf{Address:} não se aplica, pois registros SOA não retornam endereço IPv4 no campo Address.
+\end{itemize}
+
+\vspace{0.8em}
+\noindent\textbf{7. O que o valor do campo TTL significa para o seu computador?}
+
+\resposta{O TTL (Time to Live) define por quanto tempo a resposta DNS pode permanecer em cache no sistema resolvedor. Enquanto esse tempo não expira, o computador reutiliza o resultado já obtido, reduzindo latência e volume de consultas DNS adicionais.}
+
+\subsection*{Etapa 3: Comparação Final -- Browser vs nslookup}
+
+\noindent\textbf{1. O protocolo de transporte (UDP) e a porta de destino (53) foram os mesmos em ambos os casos?}
+
+\resposta{Sim. Em ambos os cenários observados, as consultas DNS utilizaram \textbf{UDP} com destino na porta \textbf{53}.}
+
+\vspace{0.8em}
+\noindent\textbf{2. O campo ``Transaction ID'' foi diferente? Por que este campo é importante?}
+
+\resposta{Sim. Foram observados IDs distintos entre consultas (por exemplo \textbf{0xc6de}, \textbf{0x013b}, \textbf{0x94d5} e \textbf{0xffa7} para \textit{www.pb.utfpr.edu.br}). Esse campo é fundamental para correlacionar cada resposta à sua requisição correspondente e evitar ambiguidades quando há múltiplas consultas em paralelo.}
+
+\vspace{0.8em}
+\noindent\textbf{3. O conteúdo da seção ``Queries'' (o nome e o tipo pesquisado) foi idêntico? Comente suas observações.}
+
+\resposta{Não necessariamente. Em geral, o \textit{nslookup} realiza consultas mais diretas (tipicamente A/AAAA), enquanto o navegador costuma gerar consultas adicionais (como HTTPS/SVCB, além de domínios auxiliares). Na captura analisada, para \textit{www.pb.utfpr.edu.br} foram observadas consultas dos tipos \textbf{A} e \textbf{HTTPS}.}
+
+\end{document}

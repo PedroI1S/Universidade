@@ -1,0 +1,7 @@
+v 4
+file . "teste_tb.vhdl" "44dacd612bb6d570475158eb3a5075aef067a217" "20260618193318.831":
+  entity teste_tb at 1( 0) + 0 on 13;
+  architecture sim of teste_tb at 7( 76) + 0 on 14;
+file . "teste.vhdl" "1cb37a3e794f457ad5a60d4811b166945ad811f6" "20260618193318.788":
+  entity teste at 1( 0) + 0 on 11;
+  architecture rtl of teste at 12( 153) + 0 on 12;

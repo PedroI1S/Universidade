@@ -1,0 +1,4 @@
+{
+  "vhdlls.languageServer": "docker",
+  "vhdlls.nonProjectFiles": "analyze"
+}

@@ -1,0 +1,101 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\usepackage{setspace}
+\geometry{margin=2.5cm}
+\setstretch{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+
+\newcommand{\resposta}[1]{\textbf{Resposta:} #1}
+
+\begin{document}
+
+\begin{center}
+\textbf{Ministério da Educação}\\
+\textbf{Universidade Tecnológica Federal do Paraná -- Campus Pato Branco}\\
+\textbf{Departamento Acadêmico de Informática}\\[0.5em]
+\textbf{Disciplina: Redes de Computadores} \hfill \textbf{Prof. Dr. Eden Dosciatti}
+
+\vspace{1.2em}
+\Large\textbf{Atividade Avaliativa 2}
+\end{center}
+
+\vspace{1em}
+\noindent\textbf{Nome:} Pedro Mariano \hfill \textbf{RA:} 2562790
+
+\vspace{1em}
+\section*{Tarefa 1 -- Etapa 1: Recuperar os endereços de interface do PC}
+
+\noindent\textbf{Qual o endereço IP da máquina que você enviará o ping?}
+
+\resposta{\textbf{192.168.0.113}.}
+
+\vspace{0.7em}
+\noindent\textbf{Endereço físico (MAC) da interface utilizada na captura:}
+
+\resposta{\textbf{32:5f:08:bf:74:47}.}
+
+\section*{Tarefa 2 -- Etapa 3: Examinar os dados capturados}
+
+\noindent\textbf{O endereço MAC de origem corresponde à sua interface de PC?}
+
+\resposta{Sim. Conferindo os pacotes ICMP de requisição, o MAC de origem apareceu como \textbf{32:5f:08:bf:74:47}, que é o MAC da minha interface local.}
+
+\vspace{0.7em}
+\noindent\textbf{O endereço MAC de destino no Wireshark corresponde ao endereço MAC do membro de sua equipe?}
+
+\resposta{No teste de ping para o colega (destino \textbf{190.27.39.4}), o MAC de destino que apareceu foi \textbf{00:31:92:e9:a0:1b}. Então, nesse caso, ele não é o MAC da máquina final, e sim o MAC do gateway (próximo salto).}
+
+\vspace{0.7em}
+\noindent\textbf{Como o endereço MAC do PC que recebeu ping é obtido pelo seu PC?}
+
+\resposta{Esse MAC é descoberto por \textbf{ARP}. Se o destino estiver na mesma rede local, o computador descobre direto o MAC do host de destino. Se estiver fora da rede local, ele descobre o MAC do \textit{gateway} e envia o quadro para o roteador.}
+
+\section*{Tarefa 3 -- Parte 2: Capturar e analisar dados ICMP remotos no Wireshark}
+
+\noindent\textbf{Endereço IP para www.yahoo.com:}
+
+\resposta{\textbf{69.147.92.12}.}
+
+\vspace{0.6em}
+\noindent\textbf{Endereço MAC para www.yahoo.com:}
+
+\resposta{\textbf{00:31:92:e9:a0:1b} (MAC do gateway na LAN local).}
+
+\vspace{0.8em}
+\noindent\textbf{Endereço IP para www.cisco.com:}
+
+\resposta{\textbf{2.20.20.108} (resolvido para host Akamai: \textit{e2867.dsca.akamaiedge.net}).}
+
+\vspace{0.6em}
+\noindent\textbf{Endereço MAC para www.cisco.com:}
+
+\resposta{\textbf{00:31:92:e9:a0:1b} (MAC do gateway na LAN local).}
+
+\vspace{0.8em}
+\noindent\textbf{Endereço IP para www.google.com:}
+
+\resposta{\textbf{142.251.157.119}.}
+
+\vspace{0.6em}
+\noindent\textbf{Endereço MAC para www.google.com:}
+
+\resposta{\textbf{00:31:92:e9:a0:1b} (MAC do gateway na LAN local).}
+
+\vspace{0.8em}
+\noindent\textbf{Qual é a importância dessas informações?}
+
+\resposta{Essas informações ajudam a entender por onde o pacote está passando. O IP mostra o destino final da comunicação, e o MAC mostra quem recebe o quadro naquele trecho da rede local. Isso facilita bastante na hora de diagnosticar problemas de conectividade.}
+
+\vspace{0.8em}
+\noindent\textbf{Como essas informações diferem das informações do ping local que você recebeu na parte 1?}
+
+\resposta{No ping local (mesma sub-rede), o MAC de destino é o da própria máquina de destino. Já no ping remoto, o IP continua sendo do servidor na Internet, mas o MAC de destino no quadro Ethernet passa a ser o do gateway local, porque o tráfego precisa sair da rede local primeiro.}
+
+\vspace{1em}
+\noindent\textbf{Base da análise:} usei as capturas \texttt{ping\_colega.pcapng} (ping ao colega; ex.: frames 64 e 116 para 190.27.39.4) e \texttt{pings.pcapng} (pings remotos; ex.: frames 127, 191 e 253, com DNS associado nos frames 190 e 252).
+
+\end{document}

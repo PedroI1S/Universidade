@@ -1,0 +1,143 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{array}
+\usepackage{url}
+\geometry{margin=2.5cm}
+\setstretch{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+
+\begin{document}
+
+\begin{center}
+\textbf{Ministério da Educação}\\
+\textbf{Universidade Tecnológica Federal do Paraná -- Campus Pato Branco}\\
+\textbf{Departamento Acadêmico de Informática}\\[0.5em]
+\textbf{Disciplina: Redes de Computadores} \hfill \textbf{Prof. Dr. Eden Dosciatti}
+
+\vspace{1.2em}
+\Large\textbf{Atividade Avaliativa 6 -- Análise de Conexões TCP}
+\end{center}
+
+\vspace{1em}
+\noindent\textbf{Nome:} Pedro Mariano dos Santos \hfill \textbf{RA:} 2562790
+
+\vspace{1em}
+
+\section*{Etapa 1: Parâmetros do comando netstat}
+
+No macOS, o comando \texttt{netstat --help} não é suportado e retorna erro de opção. Nesse caso, a forma correta foi usar o formato de uso padrão exibido pelo próprio comando e executar \texttt{netstat -an} para listar conexões e sockets em formato numérico.
+
+\subsection*{Tarefa 1: conexões observadas no netstat}
+
+Foram registradas cinco conexões TCP e duas UDP a partir da saída real do terminal.
+
+\begin{center}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{|p{2.2cm}|p{2.5cm}|p{4.3cm}|p{4.3cm}|}
+\hline
+\textbf{Protocolo} & \textbf{Estado} & \textbf{IP:Porta Local} & \textbf{IP:Porta Remota} \\
+\hline
+TCP & ESTABLISHED & 192.168.18.5:55529 & 4.228.31.153:443 \\
+\hline
+TCP & ESTABLISHED & 192.168.18.5:55528 & 4.228.31.149:443 \\
+\hline
+TCP & ESTABLISHED & 192.168.18.5:55464 & 199.232.14.214:443 \\
+\hline
+TCP & ESTABLISHED & 127.0.0.1:55313 & 127.0.0.1:55507 \\
+\hline
+TCP & LISTEN & 127.0.0.1:55313 & *:* \\
+\hline
+UDP & --- & 2804:6fc:c00e:c8::64924 & 2800:3f0:4001:80::443 \\
+\hline
+UDP & --- & *:5353 & *:* \\
+\hline
+\end{tabular}
+\end{center}
+
+\textbf{Comentário:} As conexões TCP observadas refletem principalmente sessões HTTPS em andamento (porta 443), além de socket local em estado LISTEN. No UDP, como esperado, não há estado de conexão estabelecida.
+
+\section*{Etapa 2: Geração e captura dos pacotes TCP}
+
+Procedimento realizado conforme roteiro:
+\begin{itemize}
+\item Fechamento de abas abertas e início da captura no Wireshark.
+\item Acesso ao site \texttt{https://www.utfpr.edu.br} para gerar conexões TCP válidas para análise.
+\item Fechamento do navegador e espera de alguns segundos para encerramento da sessão.
+\item Aplicação de filtros para destacar os pacotes TCP da conexão analisada (host \texttt{200.134.17.4}, porta \texttt{443}, stream \texttt{0}).
+\end{itemize}
+
+\subsection*{Observação}
+A URL originalmente indicada no roteiro (\url{http://www.pb.utfpr.edu.br/eden/redes/simplepage.html}) retornou erro \texttt{404} durante a execução da atividade. Por esse motivo, a captura foi realizada com \url{https://www.utfpr.edu.br}, mantendo o mesmo objetivo de análise do handshake e do encerramento TCP.
+
+\section*{Etapa 3: Análise do estabelecimento da conexão TCP}
+
+Com a nova captura da conexão com \texttt{www.utfpr.edu.br}, foi possível identificar completamente os três pacotes do \textit{three-way handshake}.
+
+\begin{center}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{|p{4.6cm}|p{3.2cm}|p{3.2cm}|p{3.2cm}|}
+\hline
+ & \textbf{1\textordmasculine{} pacote} & \textbf{2\textordmasculine{} pacote} & \textbf{3\textordmasculine{} pacote} \\
+\hline
+Endereço IP de origem & 192.168.18.5 & 200.134.17.4 & 192.168.18.5 \\
+\hline
+Endereço IP de destino & 200.134.17.4 & 192.168.18.5 & 200.134.17.4 \\
+\hline
+Porta de origem & 55721 & 443 & 55721 \\
+\hline
+Porta de destino & 443 & 55721 & 443 \\
+\hline
+Número de sequência & 0 & 0 & 1 \\
+\hline
+Número de reconhecimento & 0 & 1 & 1 \\
+\hline
+Tamanho do cabeçalho & 44 bytes & 40 bytes & 32 bytes \\
+\hline
+Tamanho da janela & 65535 & 14480 & 2065 \\
+\hline
+Flags ativos & SYN & SYN, ACK & ACK \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Etapa 4: Análise do encerramento da conexão TCP}
+
+No stream analisado, o encerramento ocorreu no padrão clássico de quatro passos (\texttt{FIN/ACK}, \texttt{ACK}, \texttt{FIN/ACK}, \texttt{ACK}).
+
+\begin{center}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{|p{4.0cm}|p{2.4cm}|p{2.4cm}|p{2.4cm}|p{2.4cm}|}
+\hline
+ & \textbf{1\textordmasculine{}} & \textbf{2\textordmasculine{}} & \textbf{3\textordmasculine{}} & \textbf{4\textordmasculine{} (se houver)} \\
+\hline
+Endereço IP de origem & 200.134.17.4 & 192.168.18.5 & 192.168.18.5 & 200.134.17.4 \\
+\hline
+Endereço IP de destino & 192.168.18.5 & 200.134.17.4 & 200.134.17.4 & 192.168.18.5 \\
+\hline
+Porta de origem & 443 & 55721 & 55721 & 443 \\
+\hline
+Porta de destino & 55721 & 443 & 443 & 55721 \\
+\hline
+Número de sequência & 381315 & 508 & 508 & 381414 \\
+\hline
+Número de reconhecimento & 508 & 381414 & 381414 & 509 \\
+\hline
+Tamanho do cabeçalho & 32 bytes & 32 bytes & 32 bytes & 32 bytes \\
+\hline
+Tamanho da janela & 122 & 1611 & 2048 & 122 \\
+\hline
+Flags ativos & FIN, ACK & ACK & FIN, ACK & ACK \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Conclusão}
+
+A atividade reforça duas ideias centrais da camada de transporte: o TCP é orientado à conexão e mantém controle explícito do ciclo de vida da sessão (abertura, transferência e encerramento), enquanto o netstat ajuda a enxergar esse comportamento do lado do sistema operacional em tempo real. Com a captura completa do site \texttt{www.utfpr.edu.br}, foi possível observar todo o handshake e também o encerramento em quatro passos, confirmando na prática o comportamento esperado do TCP.
+
+\end{document}

@@ -1,0 +1,123 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "VHDL: Create project folder",
+      "type": "shell",
+      "command": "zsh",
+      "args": [
+        "-lc",
+        "mkdir -p \"${workspaceFolder}/${input:projectDir}\""
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "VHDL: Analyze current file (project folder)",
+      "type": "shell",
+      "command": "zsh",
+      "args": [
+        "-lc",
+        "ghdl -a --std=08 \"${file}\""
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}/${input:projectDir}"
+      },
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "VHDL: Analyze all in project folder",
+      "type": "shell",
+      "command": "zsh",
+      "args": [
+        "-lc",
+        "ghdl -a --std=08 *.vhdl"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}/${input:projectDir}"
+      },
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "VHDL: Elaborate testbench",
+      "type": "shell",
+      "command": "ghdl",
+      "args": [
+        "-e",
+        "--std=08",
+        "${input:tbName}"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}/${input:projectDir}"
+      },
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "VHDL: Run testbench (VCD)",
+      "type": "shell",
+      "command": "zsh",
+      "args": [
+        "-lc",
+        "ghdl -r --std=08 \"${input:tbName}\" --vcd=wave.vcd --wave=wave.ghw"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}/${input:projectDir}"
+      },
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "VHDL: Open waveform",
+      "type": "shell",
+      "command": "zsh",
+      "args": [
+        "-lc",
+        "if [[ -f wave.ghw ]]; then surfer wave.ghw || { echo \"Surfer falhou ao abrir wave.ghw\"; if command -v gtkwave >/dev/null 2>&1; then gtkwave wave.vcd; else echo \"Dica: rode brew install gtkwave para fallback.\"; fi; }; elif [[ -f wave.vcd ]]; then surfer wave.vcd || { echo \"Surfer falhou ao abrir wave.vcd\"; if command -v gtkwave >/dev/null 2>&1; then gtkwave wave.vcd; else echo \"Dica: rode brew install gtkwave para fallback.\"; fi; }; else echo \"Nenhum arquivo de onda encontrado (wave.ghw/wave.vcd).\"; exit 1; fi"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}/${input:projectDir}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "VHDL: Clean generated files",
+      "type": "shell",
+      "command": "zsh",
+      "args": [
+        "-lc",
+        "rm -f *.cf *.o wave.vcd ${input:tbName}"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}/${input:projectDir}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "VHDL: Run all (Project folder)",
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "VHDL: Analyze all in project folder",
+        "VHDL: Elaborate testbench",
+        "VHDL: Run testbench (VCD)",
+        "VHDL: Open waveform"
+      ],
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "projectDir",
+      "type": "promptString",
+      "description": "Project folder inside Logica (ex: projeto1)",
+      "default": "projeto1"
+    },
+    {
+      "id": "tbName",
+      "type": "promptString",
+      "description": "Testbench entity name",
+      "default": "teste_tb"
+    }
+  ]
+}
