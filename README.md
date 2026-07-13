@@ -1,6 +1,6 @@
 # Programacao Universidade
 
-Total de arquivos de programacao neste ramo: 341
+Total de arquivos de programacao neste ramo: 405
 
 ## Subpastas
 
@@ -10,6 +10,7 @@ Total de arquivos de programacao neste ramo: 341
 - 4_Quarto_Semestre: 79 arquivo(s) de programacao
 - 5_Quinto_Semestre: 11 arquivo(s) de programacao
 - 6_Sexto_Semestre: 71 arquivo(s) de programacao
+- 7_Setimo_Semestre: 64 arquivo(s) de programacao
 
 ## O que cada codigo faz
 
